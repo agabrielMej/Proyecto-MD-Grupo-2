@@ -1,0 +1,19 @@
+Causa de defuncion;Codigos CIE-10;Codigos CIE-10
+Asist;1;Médica
+Asist;2;Paramédica
+Asist;3;Comadrona
+Asist;4;Empírica
+Asist;5;Ninguna
+Ocur;1;Hospital público
+Ocur;2;Hospital privado
+Ocur;3;Centro de salud
+Ocur;4;Seguro social
+Ocur;5;Vía pública
+Ocur;6;Domicilio
+Ocur;7;Lugar de trabajo
+Ocur;8;Otro
+Ocur;9;Ignorado
+Cerdef;1;Medico
+Cerdef;2;Paramedico
+Cerdef;3;Autoridad
+Cerdef;9;Ignorado

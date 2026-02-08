@@ -1,0 +1,2109 @@
+Variable;Código;Etiqueta
+Depreg;1;Guatemala
+Depreg;2;El Progreso
+Depreg;3;Sacatepéquez
+Depreg;4;Chimaltenango
+Depreg;5;Escuintla
+Depreg;6;Santa Rosa
+Depreg;7;Sololá
+Depreg;8;Totonicapán
+Depreg;9;Quetzaltenango
+Depreg;10;Suchitepéquez
+Depreg;11;Retalhuleu
+Depreg;12;San Marcos
+Depreg;13;Huehuetenango
+Depreg;14;Quiché
+Depreg;15;Baja Verapaz
+Depreg;16;Alta Verapaz
+Depreg;17;Petén
+Depreg;18;Izabal
+Depreg;19;Zacapa
+Depreg;20;Chiquimula
+Depreg;21;Jalapa
+Depreg;22;Jutiapa
+Mupreg;0101;Guatemala
+Mupreg;0102;Santa Catarina Pinula
+Mupreg;0103;San José Pinula
+Mupreg;0104;San José del Golfo
+Mupreg;0105;Palencia
+Mupreg;0106;Chinautla
+Mupreg;0107;San Pedro Ayampuc
+Mupreg;0108;Mixco
+Mupreg;0109;San Pedro Sacatepéquez
+Mupreg;0110;San Juan Sacatepéquez
+Mupreg;0111;San Raymundo
+Mupreg;0112;Chuarrancho
+Mupreg;0113;Fraijanes
+Mupreg;0114;Amatitlán
+Mupreg;0115;Villa Nueva
+Mupreg;0116;Villa Canales
+Mupreg;0117;Petapa
+Mupreg;0201;Guastatoya
+Mupreg;0202;Morazán
+Mupreg;0203;San Agustín Acasaguastlán
+Mupreg;0204;San Cristóbal Acasaguastlán
+Mupreg;0205;El Jícaro
+Mupreg;0206;Sansare
+Mupreg;0207;Sanarate
+Mupreg;0208;San Antonio la Paz
+Mupreg;0301;Antigua Guatemala
+Mupreg;0302;Jocotenango
+Mupreg;0303;Pastores
+Mupreg;0304;Sumpango
+Mupreg;0305;Santo Domingo Xenacoj
+Mupreg;0306;Santiago Sacatepéquez
+Mupreg;0307;San Bartolomé Milpas Altas
+Mupreg;0308;San Lucas Sacatepéquez
+Mupreg;0309;Santa Lucía Milpas Altas
+Mupreg;0310;Magdalena Milpas Altas
+Mupreg;0311;Santa María de Jesús
+Mupreg;0312;Ciudad Vieja
+Mupreg;0313;San Miguel Dueñas
+Mupreg;0314;Alotenango
+Mupreg;0315;San Antonio Aguas Calientes
+Mupreg;0316;Santa Catarina Barahona
+Mupreg;0401;Chimaltenango
+Mupreg;0402;San José Poaquil
+Mupreg;0403;San Martín Jilotepeque
+Mupreg;0404;Comalapa
+Mupreg;0405;Santa Apolonia
+Mupreg;0406;Tecpán Guatemala
+Mupreg;0407;Patzún
+Mupreg;0408;Pochuta
+Mupreg;0409;Patzicía
+Mupreg;0410;Santa Cruz Balanyá
+Mupreg;0411;Acatenango
+Mupreg;0412;Yepocapa
+Mupreg;0413;San Andrés Itzapa
+Mupreg;0414;Parramos
+Mupreg;0415;Zaragoza
+Mupreg;0416;El Tejar
+Mupreg;0501;Escuintla
+Mupreg;0502;Santa Lucía Cotzumalguapa
+Mupreg;0503;La Democracia
+Mupreg;0504;Siquinalá
+Mupreg;0505;Masagua
+Mupreg;0506;Tiquisate
+Mupreg;0507;La Gomera
+Mupreg;0508;Guanagazapa
+Mupreg;0509;San José
+Mupreg;0510;Iztapa
+Mupreg;0511;Palín
+Mupreg;0512;San Vicente Pacaya
+Mupreg;0513;Nueva Concepción
+Mupreg;0601;Cuilapa
+Mupreg;0602;Barberena
+Mupreg;0603;Santa Rosa de Lima
+Mupreg;0604;Casillas
+Mupreg;0605;San Rafael las Flores
+Mupreg;0606;Oratorio
+Mupreg;0607;San Juan Tecuaco
+Mupreg;0608;Chiquimulilla
+Mupreg;0609;Taxisco
+Mupreg;0610;Santa María Ixhuatán
+Mupreg;0611;Guazacapán
+Mupreg;0612;Santa Cruz Naranjo
+Mupreg;0613;Pueblo Nuevo Viñas
+Mupreg;0614;Nueva Santa Rosa
+Mupreg;0701;Sololá
+Mupreg;0702;San José Chacayá
+Mupreg;0703;Santa María Visitación
+Mupreg;0704;Santa Lucía Utatlán
+Mupreg;0705;Nahualá
+Mupreg;0706;Santa Catarina Ixtahuacán
+Mupreg;0707;Santa Clara la Laguna
+Mupreg;0708;Concepción
+Mupreg;0709;San Andrés Semetabaj
+Mupreg;0710;Panajachel
+Mupreg;0711;Santa Catarina Palopó
+Mupreg;0712;San Antonio Palopó
+Mupreg;0713;San Lucas Tolimán
+Mupreg;0714;Santa Cruz la Laguna
+Mupreg;0715;San Pablo la Laguna
+Mupreg;0716;San Marcos la Laguna
+Mupreg;0717;San Juan la Laguna
+Mupreg;0718;San Pedro la Laguna
+Mupreg;0719;Santiago Atitlán
+Mupreg;0801;Totonicapán
+Mupreg;0802;San Cristóbal Totonicapán
+Mupreg;0803;San Francisco el Alto
+Mupreg;0804;San Andrés Xecul
+Mupreg;0805;Momostenango
+Mupreg;0806;Santa María Chiquimula
+Mupreg;0807;Santa Lucía la Reforma
+Mupreg;0808;San Bartolo
+Mupreg;0901;Quetzaltenango
+Mupreg;0902;Salcajá
+Mupreg;0903;Olintepeque
+Mupreg;0904;San Carlos Sija
+Mupreg;0905;Sibilia
+Mupreg;0906;Cabricán
+Mupreg;0907;Cajolá
+Mupreg;0908;San Miguel Siguilá
+Mupreg;0909;Ostuncalco
+Mupreg;0910;San Mateo
+Mupreg;0911;Concepción Chiquirichapa
+Mupreg;0912;San Martín Sacatepéquez
+Mupreg;0913;Almolonga
+Mupreg;0914;Cantel
+Mupreg;0915;Huitán
+Mupreg;0916;Zunil
+Mupreg;0917;Colomba
+Mupreg;0918;San Francisco la Unión
+Mupreg;0919;El Palmar
+Mupreg;0920;Coatepeque
+Mupreg;0921;Génova
+Mupreg;0922;Flores Costa Cuca
+Mupreg;0923;La Esperanza
+Mupreg;0924;Palestina de los Altos
+Mupreg;1001;Mazatenango
+Mupreg;1002;Cuyotenango
+Mupreg;1003;San Francisco Zapotitlán
+Mupreg;1004;San Bernardino
+Mupreg;1005;San José el Idolo
+Mupreg;1006;Santo Domingo Suchitepéquez
+Mupreg;1007;San Lorenzo
+Mupreg;1008;Samayac
+Mupreg;1009;San Pablo Jocopilas
+Mupreg;1010;San Antonio Suchitepéquez
+Mupreg;1011;San Miguel Panán
+Mupreg;1012;San Gabriel
+Mupreg;1013;Chicacao
+Mupreg;1014;Patulul
+Mupreg;1015;Santa Bárbara
+Mupreg;1016;San Juan Bautista
+Mupreg;1017;Santo Tomás la Unión
+Mupreg;1018;Zunilito
+Mupreg;1019;Pueblo Nuevo
+Mupreg;1020;Río Bravo
+Mupreg;1101;Retalhuleu
+Mupreg;1102;San Sebastián
+Mupreg;1103;Santa Cruz Muluá
+Mupreg;1104;San Martín Zapotitlán
+Mupreg;1105;San Felipe
+Mupreg;1106;San Andrés Villa Seca
+Mupreg;1107;Champerico
+Mupreg;1108;Nuevo San Carlos
+Mupreg;1109;El Asintal
+Mupreg;1201;San Marcos
+Mupreg;1202;San Pedro Sacatepéquez
+Mupreg;1203;San Antonio Sacatepéquez
+Mupreg;1204;Comitancillo
+Mupreg;1205;San Miguel Ixtahuacán
+Mupreg;1206;Concepción Tutuapa
+Mupreg;1207;Tacaná
+Mupreg;1208;Sibinal
+Mupreg;1209;Tajumulco
+Mupreg;1210;Tejutla
+Mupreg;1211;San Rafael Pié de la Cuesta
+Mupreg;1212;Nuevo Progreso
+Mupreg;1213;El Tumbador
+Mupreg;1214;El Rodeo
+Mupreg;1215;Malacatán
+Mupreg;1216;Catarina
+Mupreg;1217;Ayutla
+Mupreg;1218;Ocós
+Mupreg;1219;San Pablo
+Mupreg;1220;El Quetzal
+Mupreg;1221;La Reforma
+Mupreg;1222;Pajapita
+Mupreg;1223;Ixchiguán
+Mupreg;1224;San José Ojetenán
+Mupreg;1225;San Cristóbal Cucho
+Mupreg;1226;Sipacapa
+Mupreg;1227;Esquipulas Palo Gordo
+Mupreg;1228;Río Blanco
+Mupreg;1229;San Lorenzo
+Mupreg;1301;Huehuetenango
+Mupreg;1302;Chiantla
+Mupreg;1303;Malacatancito
+Mupreg;1304;Cuilco
+Mupreg;1305;Nentón
+Mupreg;1306;San Pedro Necta
+Mupreg;1307;Jacaltenango
+Mupreg;1308;Soloma
+Mupreg;1309;Ixtahuacán
+Mupreg;1310;Santa Bárbara
+Mupreg;1311;La Libertad
+Mupreg;1312;La Democracia
+Mupreg;1313;San Miguel Acatán
+Mupreg;1314;San Rafael la Independencia
+Mupreg;1315;Todos Santos Cuchumatán
+Mupreg;1316;San Juan Atitán
+Mupreg;1317;Santa Eulalia
+Mupreg;1318;San Mateo Ixtatán
+Mupreg;1319;Colotenango
+Mupreg;1320;San Sebastián Huehuetenango
+Mupreg;1321;Tectitán
+Mupreg;1322;Concepción Huista
+Mupreg;1323;San Juan Ixcoy
+Mupreg;1324;San Antonio Huista
+Mupreg;1325;San Sebastián Coatán
+Mupreg;1326;Barillas
+Mupreg;1327;Aguacatán
+Mupreg;1328;San Rafael Petzal
+Mupreg;1329;San Gaspar Ixchil
+Mupreg;1330;Santiago Chimaltenango
+Mupreg;1331;Santa Ana Huista
+Mupreg;1332;Unión Cantinil
+Mupreg;1401;Santa Cruz del Quiché
+Mupreg;1402;Chiché
+Mupreg;1403;Chinique
+Mupreg;1404;Zacualpa
+Mupreg;1405;Chajul
+Mupreg;1406;Chichicastenango
+Mupreg;1407;Patzité
+Mupreg;1408;San Antonio Ilotenango
+Mupreg;1409;San Pedro Jocopilas
+Mupreg;1410;Cunén
+Mupreg;1411;San Juan Cotzal
+Mupreg;1412;Joyabaj
+Mupreg;1413;Nebaj
+Mupreg;1414;San Andrés Sajcabajá
+Mupreg;1415;Uspantán
+Mupreg;1416;Sacapulas
+Mupreg;1417;San Bartolomé Jocotenango
+Mupreg;1418;Canillá
+Mupreg;1419;Chicamán
+Mupreg;1420;Ixcán
+Mupreg;1421;Pachalum
+Mupreg;1501;Salamá
+Mupreg;1502;San Miguel Chicaj
+Mupreg;1503;Rabinal
+Mupreg;1504;Cubulco
+Mupreg;1505;Granados
+Mupreg;1506;El Chol
+Mupreg;1507;San Jerónimo
+Mupreg;1508;Purulhá
+Mupreg;1601;Cobán
+Mupreg;1602;Santa Cruz Verapaz
+Mupreg;1603;San Cristóbal Verapaz
+Mupreg;1604;Tactic
+Mupreg;1605;Tamahú
+Mupreg;1606;Tucurú
+Mupreg;1607;Panzós
+Mupreg;1608;Senahú
+Mupreg;1609;San Pedro Carchá
+Mupreg;1610;San Juan Chamelco
+Mupreg;1611;Lanquín
+Mupreg;1612;Cahabón
+Mupreg;1613;Chisec
+Mupreg;1614;Chahal
+Mupreg;1615;Fray Bartolomé de las Casas
+Mupreg;1616;Santa Catalina la Tinta
+Mupreg;1617;Raxruhá
+Mupreg;1701;Flores
+Mupreg;1702;San José
+Mupreg;1703;San Benito
+Mupreg;1704;San Andrés
+Mupreg;1705;La Libertad
+Mupreg;1706;San Francisco
+Mupreg;1707;Santa Ana
+Mupreg;1708;Dolores
+Mupreg;1709;San Luis
+Mupreg;1710;Sayaxché
+Mupreg;1711;Melchor de Mencos
+Mupreg;1712;Poptún
+Mupreg;1713;Las Cruces
+Mupreg;1801;Puerto Barrios
+Mupreg;1802;Livingston
+Mupreg;1803;El Estor
+Mupreg;1804;Morales
+Mupreg;1805;Los Amates
+Mupreg;1901;Zacapa
+Mupreg;1902;Estanzuela
+Mupreg;1903;Río Hondo
+Mupreg;1904;Gualán
+Mupreg;1905;Teculután
+Mupreg;1906;Usumatlán
+Mupreg;1907;Cabañas
+Mupreg;1908;San Diego
+Mupreg;1909;La Unión
+Mupreg;1910;Huité
+Mupreg;2001;Chiquimula
+Mupreg;2002;San José La Arada
+Mupreg;2003;San Juan Ermita
+Mupreg;2004;Jocotán
+Mupreg;2005;Camotán
+Mupreg;2006;Olopa
+Mupreg;2007;Esquipulas
+Mupreg;2008;Concepción Las Minas
+Mupreg;2009;Quetzaltepeque
+Mupreg;2010;San Jacinto
+Mupreg;2011;Ipala
+Mupreg;2101;Jalapa
+Mupreg;2102;San Pedro Pinula
+Mupreg;2103;San Luis Jilotepeque
+Mupreg;2104;San Manuel Chaparrón
+Mupreg;2105;San Carlos Alzatate
+Mupreg;2106;Monjas
+Mupreg;2107;Mataquescuintla
+Mupreg;2201;Jutiapa
+Mupreg;2202;El Progreso
+Mupreg;2203;Santa Catarina Mita
+Mupreg;2204;Agua Blanca
+Mupreg;2205;Asunción Mita
+Mupreg;2206;Yupiltepeque
+Mupreg;2207;Atescatempa
+Mupreg;2208;Jerez
+Mupreg;2209;El Adelanto
+Mupreg;2210;Zapotitlán
+Mupreg;2211;Comapa
+Mupreg;2212;Jalpatagua
+Mupreg;2213;Conguaco
+Mupreg;2214;Moyuta
+Mupreg;2215;Pasaco
+Mupreg;2216;San José Acatempa
+Mupreg;2217;Quesada
+Mesreg;1;Enero
+Mesreg;2;Febrero
+Mesreg;3;Marzo
+Mesreg;4;Abril
+Mesreg;5;Mayo
+Mesreg;6;Junio
+Mesreg;7;Julio
+Mesreg;8;Agosto
+Mesreg;9;Septiembre
+Mesreg;10;Octubre
+Mesreg;11;Noviembre
+Mesreg;12;Diciembre
+Añoreg;2011;2011
+Añoreg;2012;2012
+Depocu;1;Guatemala
+Depocu;2;El Progreso
+Depocu;3;Sacatepéquez
+Depocu;4;Chimaltenango
+Depocu;5;Escuintla
+Depocu;6;Santa Rosa
+Depocu;7;Sololá
+Depocu;8;Totonicapán
+Depocu;9;Quetzaltenango
+Depocu;10;Suchitepéquez
+Depocu;11;Retalhuleu
+Depocu;12;San Marcos
+Depocu;13;Huehuetenango
+Depocu;14;Quiché
+Depocu;15;Baja Verapaz
+Depocu;16;Alta Verapaz
+Depocu;17;Petén
+Depocu;18;Izabal
+Depocu;19;Zacapa
+Depocu;20;Chiquimula
+Depocu;21;Jalapa
+Depocu;22;Jutiapa
+Mupocu;0101;Guatemala
+Mupocu;0102;Santa Catarina Pinula
+Mupocu;0103;San José Pinula
+Mupocu;0104;San José del Golfo
+Mupocu;0105;Palencia
+Mupocu;0106;Chinautla
+Mupocu;0107;San Pedro Ayampuc
+Mupocu;0108;Mixco
+Mupocu;0109;San Pedro Sacatepéquez
+Mupocu;0110;San Juan Sacatepéquez
+Mupocu;0111;San Raymundo
+Mupocu;0112;Chuarrancho
+Mupocu;0113;Fraijanes
+Mupocu;0114;Amatitlán
+Mupocu;0115;Villa Nueva
+Mupocu;0116;Villa Canales
+Mupocu;0117;Petapa
+Mupocu;0201;Guastatoya
+Mupocu;0202;Morazán
+Mupocu;0203;San Agustín Acasaguastlán
+Mupocu;0204;San Cristóbal Acasaguastlán
+Mupocu;0205;El Jícaro
+Mupocu;0206;Sansare
+Mupocu;0207;Sanarate
+Mupocu;0208;San Antonio la Paz
+Mupocu;0301;Antigua Guatemala
+Mupocu;0302;Jocotenango
+Mupocu;0303;Pastores
+Mupocu;0304;Sumpango
+Mupocu;0305;Santo Domingo Xenacoj
+Mupocu;0306;Santiago Sacatepéquez
+Mupocu;0307;San Bartolomé Milpas Altas
+Mupocu;0308;San Lucas Sacatepéquez
+Mupocu;0309;Santa Lucía Milpas Altas
+Mupocu;0310;Magdalena Milpas Altas
+Mupocu;0311;Santa María de Jesús
+Mupocu;0312;Ciudad Vieja
+Mupocu;0313;San Miguel Dueñas
+Mupocu;0314;Alotenango
+Mupocu;0315;San Antonio Aguas Calientes
+Mupocu;0316;Santa Catarina Barahona
+Mupocu;0401;Chimaltenango
+Mupocu;0402;San José Poaquil
+Mupocu;0403;San Martín Jilotepeque
+Mupocu;0404;Comalapa
+Mupocu;0405;Santa Apolonia
+Mupocu;0406;Tecpán Guatemala
+Mupocu;0407;Patzún
+Mupocu;0408;Pochuta
+Mupocu;0409;Patzicía
+Mupocu;0410;Santa Cruz Balanyá
+Mupocu;0411;Acatenango
+Mupocu;0412;Yepocapa
+Mupocu;0413;San Andrés Itzapa
+Mupocu;0414;Parramos
+Mupocu;0415;Zaragoza
+Mupocu;0416;El Tejar
+Mupocu;0501;Escuintla
+Mupocu;0502;Santa Lucía Cotzumalguapa
+Mupocu;0503;La Democracia
+Mupocu;0504;Siquinalá
+Mupocu;0505;Masagua
+Mupocu;0506;Tiquisate
+Mupocu;0507;La Gomera
+Mupocu;0508;Guanagazapa
+Mupocu;0509;San José
+Mupocu;0510;Iztapa
+Mupocu;0511;Palín
+Mupocu;0512;San Vicente Pacaya
+Mupocu;0513;Nueva Concepción
+Mupocu;0601;Cuilapa
+Mupocu;0602;Barberena
+Mupocu;0603;Santa Rosa de Lima
+Mupocu;0604;Casillas
+Mupocu;0605;San Rafael las Flores
+Mupocu;0606;Oratorio
+Mupocu;0607;San Juan Tecuaco
+Mupocu;0608;Chiquimulilla
+Mupocu;0609;Taxisco
+Mupocu;0610;Santa María Ixhuatán
+Mupocu;0611;Guazacapán
+Mupocu;0612;Santa Cruz Naranjo
+Mupocu;0613;Pueblo Nuevo Viñas
+Mupocu;0614;Nueva Santa Rosa
+Mupocu;0701;Sololá
+Mupocu;0702;San José Chacayá
+Mupocu;0703;Santa María Visitación
+Mupocu;0704;Santa Lucía Utatlán
+Mupocu;0705;Nahualá
+Mupocu;0706;Santa Catarina Ixtahuacán
+Mupocu;0707;Santa Clara la Laguna
+Mupocu;0708;Concepción
+Mupocu;0709;San Andrés Semetabaj
+Mupocu;0710;Panajachel
+Mupocu;0711;Santa Catarina Palopó
+Mupocu;0712;San Antonio Palopó
+Mupocu;0713;San Lucas Tolimán
+Mupocu;0714;Santa Cruz la Laguna
+Mupocu;0715;San Pablo la Laguna
+Mupocu;0716;San Marcos la Laguna
+Mupocu;0717;San Juan la Laguna
+Mupocu;0718;San Pedro la Laguna
+Mupocu;0719;Santiago Atitlán
+Mupocu;0801;Totonicapán
+Mupocu;0802;San Cristóbal Totonicapán
+Mupocu;0803;San Francisco el Alto
+Mupocu;0804;San Andrés Xecul
+Mupocu;0805;Momostenango
+Mupocu;0806;Santa María Chiquimula
+Mupocu;0807;Santa Lucía la Reforma
+Mupocu;0808;San Bartolo
+Mupocu;0901;Quetzaltenango
+Mupocu;0902;Salcajá
+Mupocu;0903;Olintepeque
+Mupocu;0904;San Carlos Sija
+Mupocu;0905;Sibilia
+Mupocu;0906;Cabricán
+Mupocu;0907;Cajolá
+Mupocu;0908;San Miguel Siguilá
+Mupocu;0909;Ostuncalco
+Mupocu;0910;San Mateo
+Mupocu;0911;Concepción Chiquirichapa
+Mupocu;0912;San Martín Sacatepéquez
+Mupocu;0913;Almolonga
+Mupocu;0914;Cantel
+Mupocu;0915;Huitán
+Mupocu;0916;Zunil
+Mupocu;0917;Colomba
+Mupocu;0918;San Francisco la Unión
+Mupocu;0919;El Palmar
+Mupocu;0920;Coatepeque
+Mupocu;0921;Génova
+Mupocu;0922;Flores Costa Cuca
+Mupocu;0923;La Esperanza
+Mupocu;0924;Palestina de los Altos
+Mupocu;1001;Mazatenango
+Mupocu;1002;Cuyotenango
+Mupocu;1003;San Francisco Zapotitlán
+Mupocu;1004;San Bernardino
+Mupocu;1005;San José el Idolo
+Mupocu;1006;Santo Domingo Suchitepéquez
+Mupocu;1007;San Lorenzo
+Mupocu;1008;Samayac
+Mupocu;1009;San Pablo Jocopilas
+Mupocu;1010;San Antonio Suchitepéquez
+Mupocu;1011;San Miguel Panán
+Mupocu;1012;San Gabriel
+Mupocu;1013;Chicacao
+Mupocu;1014;Patulul
+Mupocu;1015;Santa Bárbara
+Mupocu;1016;San Juan Bautista
+Mupocu;1017;Santo Tomás la Unión
+Mupocu;1018;Zunilito
+Mupocu;1019;Pueblo Nuevo
+Mupocu;1020;Río Bravo
+Mupocu;1101;Retalhuleu
+Mupocu;1102;San Sebastián
+Mupocu;1103;Santa Cruz Muluá
+Mupocu;1104;San Martín Zapotitlán
+Mupocu;1105;San Felipe
+Mupocu;1106;San Andrés Villa Seca
+Mupocu;1107;Champerico
+Mupocu;1108;Nuevo San Carlos
+Mupocu;1109;El Asintal
+Mupocu;1201;San Marcos
+Mupocu;1202;San Pedro Sacatepéquez
+Mupocu;1203;San Antonio Sacatepéquez
+Mupocu;1204;Comitancillo
+Mupocu;1205;San Miguel Ixtahuacán
+Mupocu;1206;Concepción Tutuapa
+Mupocu;1207;Tacaná
+Mupocu;1208;Sibinal
+Mupocu;1209;Tajumulco
+Mupocu;1210;Tejutla
+Mupocu;1211;San Rafael Pié de la Cuesta
+Mupocu;1212;Nuevo Progreso
+Mupocu;1213;El Tumbador
+Mupocu;1214;El Rodeo
+Mupocu;1215;Malacatán
+Mupocu;1216;Catarina
+Mupocu;1217;Ayutla
+Mupocu;1218;Ocós
+Mupocu;1219;San Pablo
+Mupocu;1220;El Quetzal
+Mupocu;1221;La Reforma
+Mupocu;1222;Pajapita
+Mupocu;1223;Ixchiguán
+Mupocu;1224;San José Ojetenán
+Mupocu;1225;San Cristóbal Cucho
+Mupocu;1226;Sipacapa
+Mupocu;1227;Esquipulas Palo Gordo
+Mupocu;1228;Río Blanco
+Mupocu;1229;San Lorenzo
+Mupocu;1301;Huehuetenango
+Mupocu;1302;Chiantla
+Mupocu;1303;Malacatancito
+Mupocu;1304;Cuilco
+Mupocu;1305;Nentón
+Mupocu;1306;San Pedro Necta
+Mupocu;1307;Jacaltenango
+Mupocu;1308;Soloma
+Mupocu;1309;Ixtahuacán
+Mupocu;1310;Santa Bárbara
+Mupocu;1311;La Libertad
+Mupocu;1312;La Democracia
+Mupocu;1313;San Miguel Acatán
+Mupocu;1314;San Rafael la Independencia
+Mupocu;1315;Todos Santos Cuchumatán
+Mupocu;1316;San Juan Atitán
+Mupocu;1317;Santa Eulalia
+Mupocu;1318;San Mateo Ixtatán
+Mupocu;1319;Colotenango
+Mupocu;1320;San Sebastián Huehuetenango
+Mupocu;1321;Tectitán
+Mupocu;1322;Concepción Huista
+Mupocu;1323;San Juan Ixcoy
+Mupocu;1324;San Antonio Huista
+Mupocu;1325;San Sebastián Coatán
+Mupocu;1326;Barillas
+Mupocu;1327;Aguacatán
+Mupocu;1328;San Rafael Petzal
+Mupocu;1329;San Gaspar Ixchil
+Mupocu;1330;Santiago Chimaltenango
+Mupocu;1331;Santa Ana Huista
+Mupocu;1332;Unión Cantinil
+Mupocu;1401;Santa Cruz del Quiché
+Mupocu;1402;Chiché
+Mupocu;1403;Chinique
+Mupocu;1404;Zacualpa
+Mupocu;1405;Chajul
+Mupocu;1406;Chichicastenango
+Mupocu;1407;Patzité
+Mupocu;1408;San Antonio Ilotenango
+Mupocu;1409;San Pedro Jocopilas
+Mupocu;1410;Cunén
+Mupocu;1411;San Juan Cotzal
+Mupocu;1412;Joyabaj
+Mupocu;1413;Nebaj
+Mupocu;1414;San Andrés Sajcabajá
+Mupocu;1415;Uspantán
+Mupocu;1416;Sacapulas
+Mupocu;1417;San Bartolomé Jocotenango
+Mupocu;1418;Canillá
+Mupocu;1419;Chicamán
+Mupocu;1420;Ixcán
+Mupocu;1421;Pachalum
+Mupocu;1501;Salamá
+Mupocu;1502;San Miguel Chicaj
+Mupocu;1503;Rabinal
+Mupocu;1504;Cubulco
+Mupocu;1505;Granados
+Mupocu;1506;El Chol
+Mupocu;1507;San Jerónimo
+Mupocu;1508;Purulhá
+Mupocu;1601;Cobán
+Mupocu;1602;Santa Cruz Verapaz
+Mupocu;1603;San Cristóbal Verapaz
+Mupocu;1604;Tactic
+Mupocu;1605;Tamahú
+Mupocu;1606;Tucurú
+Mupocu;1607;Panzós
+Mupocu;1608;Senahú
+Mupocu;1609;San Pedro Carchá
+Mupocu;1610;San Juan Chamelco
+Mupocu;1611;Lanquín
+Mupocu;1612;Cahabón
+Mupocu;1613;Chisec
+Mupocu;1614;Chahal
+Mupocu;1615;Fray Bartolomé de las Casas
+Mupocu;1616;Santa Catalina la Tinta
+Mupocu;1617;Raxruhá
+Mupocu;1701;Flores
+Mupocu;1702;San José
+Mupocu;1703;San Benito
+Mupocu;1704;San Andrés
+Mupocu;1705;La Libertad
+Mupocu;1706;San Francisco
+Mupocu;1707;Santa Ana
+Mupocu;1708;Dolores
+Mupocu;1709;San Luis
+Mupocu;1710;Sayaxché
+Mupocu;1711;Melchor de Mencos
+Mupocu;1712;Poptún
+Mupocu;1713;Las Cruces
+Mupocu;1801;Puerto Barrios
+Mupocu;1802;Livingston
+Mupocu;1803;El Estor
+Mupocu;1804;Morales
+Mupocu;1805;Los Amates
+Mupocu;1901;Zacapa
+Mupocu;1902;Estanzuela
+Mupocu;1903;Río Hondo
+Mupocu;1904;Gualán
+Mupocu;1905;Teculután
+Mupocu;1906;Usumatlán
+Mupocu;1907;Cabañas
+Mupocu;1908;San Diego
+Mupocu;1909;La Unión
+Mupocu;1910;Huité
+Mupocu;2001;Chiquimula
+Mupocu;2002;San José La Arada
+Mupocu;2003;San Juan Ermita
+Mupocu;2004;Jocotán
+Mupocu;2005;Camotán
+Mupocu;2006;Olopa
+Mupocu;2007;Esquipulas
+Mupocu;2008;Concepción Las Minas
+Mupocu;2009;Quetzaltepeque
+Mupocu;2010;San Jacinto
+Mupocu;2011;Ipala
+Mupocu;2101;Jalapa
+Mupocu;2102;San Pedro Pinula
+Mupocu;2103;San Luis Jilotepeque
+Mupocu;2104;San Manuel Chaparrón
+Mupocu;2105;San Carlos Alzatate
+Mupocu;2106;Monjas
+Mupocu;2107;Mataquescuintla
+Mupocu;2201;Jutiapa
+Mupocu;2202;El Progreso
+Mupocu;2203;Santa Catarina Mita
+Mupocu;2204;Agua Blanca
+Mupocu;2205;Asunción Mita
+Mupocu;2206;Yupiltepeque
+Mupocu;2207;Atescatempa
+Mupocu;2208;Jerez
+Mupocu;2209;El Adelanto
+Mupocu;2210;Zapotitlán
+Mupocu;2211;Comapa
+Mupocu;2212;Jalpatagua
+Mupocu;2213;Conguaco
+Mupocu;2214;Moyuta
+Mupocu;2215;Pasaco
+Mupocu;2216;San José Acatempa
+Mupocu;2217;Quesada
+Areag;1;Urbano
+Areag;2;Rural
+Areag;9;Ignorado
+Sexo;1;Hombre
+Sexo;2;Mujer
+Diaocu;1;1
+Diaocu;2;2
+Diaocu;3;3
+Diaocu;4;4
+Diaocu;5;5
+Diaocu;6;6
+Diaocu;7;7
+Diaocu;8;8
+Diaocu;9;9
+Diaocu;10;10
+Diaocu;11;11
+Diaocu;12;12
+Diaocu;13;13
+Diaocu;14;14
+Diaocu;15;15
+Diaocu;16;16
+Diaocu;17;17
+Diaocu;18;18
+Diaocu;19;19
+Diaocu;20;20
+Diaocu;21;21
+Diaocu;22;22
+Diaocu;23;23
+Diaocu;24;24
+Diaocu;25;25
+Diaocu;26;26
+Diaocu;27;27
+Diaocu;28;28
+Diaocu;29;29
+Diaocu;30;30
+Diaocu;31;31
+Mesocu;1;Enero
+Mesocu;2;Febrero
+Mesocu;3;Marzo
+Mesocu;4;Abril
+Mesocu;5;Mayo
+Mesocu;6;Junio
+Mesocu;7;Julio
+Mesocu;8;Agosto
+Mesocu;9;Septiembre
+Mesocu;10;Octubre
+Mesocu;11;Noviembre
+Mesocu;12;Diciembre
+Edadif;0;0
+Edadif;1;1
+Edadif;2;2
+Edadif;3;3
+Edadif;4;4
+Edadif;5;5
+Edadif;6;6
+Edadif;7;7
+Edadif;8;8
+Edadif;9;9
+Edadif;10;10
+Edadif;11;11
+Edadif;12;12
+Edadif;13;13
+Edadif;14;14
+Edadif;15;15
+Edadif;16;16
+Edadif;17;17
+Edadif;18;18
+Edadif;19;19
+Edadif;20;20
+Edadif;21;21
+Edadif;22;22
+Edadif;23;23
+Edadif;24;24
+Edadif;25;25
+Edadif;26;26
+Edadif;27;27
+Edadif;28;28
+Edadif;29;29
+Edadif;30;30
+Edadif;31;31
+Edadif;32;32
+Edadif;33;33
+Edadif;34;34
+Edadif;35;35
+Edadif;36;36
+Edadif;37;37
+Edadif;38;38
+Edadif;39;39
+Edadif;40;40
+Edadif;41;41
+Edadif;42;42
+Edadif;43;43
+Edadif;44;44
+Edadif;45;45
+Edadif;46;46
+Edadif;47;47
+Edadif;48;48
+Edadif;49;49
+Edadif;50;50
+Edadif;51;51
+Edadif;52;52
+Edadif;53;53
+Edadif;54;54
+Edadif;55;55
+Edadif;56;56
+Edadif;57;57
+Edadif;58;58
+Edadif;59;59
+Edadif;60;60
+Edadif;61;61
+Edadif;62;62
+Edadif;63;63
+Edadif;64;64
+Edadif;65;65
+Edadif;66;66
+Edadif;67;67
+Edadif;68;68
+Edadif;69;69
+Edadif;70;70
+Edadif;71;71
+Edadif;72;72
+Edadif;73;73
+Edadif;74;74
+Edadif;75;75
+Edadif;76;76
+Edadif;77;77
+Edadif;78;78
+Edadif;79;79
+Edadif;80;80
+Edadif;81;81
+Edadif;82;82
+Edadif;83;83
+Edadif;84;84
+Edadif;85;85
+Edadif;86;86
+Edadif;87;87
+Edadif;88;88
+Edadif;89;89
+Edadif;90;90
+Edadif;91;91
+Edadif;92;92
+Edadif;93;93
+Edadif;94;94
+Edadif;95;95
+Edadif;96;96
+Edadif;97;97
+Edadif;98;98
+Edadif;99;99
+Edadif;100;100
+Edadif;101;101
+Edadif;102;102
+Edadif;103;103
+Edadif;104;104
+Edadif;105;105
+Edadif;106;106
+Edadif;107;107
+Edadif;108;108
+Edadif;109;109
+Edadif;111;111
+Edadif;112;112
+Edadif;118;118
+Edadif;999;Ignorado
+Perdif;1;Menos de un mes
+Perdif;2;1 a 11 meses
+Perdif;3;1 año y más
+Perdif;9;Ignorado
+Getdif;1;Indígena
+Getdif;2;No indígena
+Getdif;9;Ignorado
+Ecidif;1;Soltero
+Ecidif;2;Casado
+Ecidif;3;Unido
+Ecidif;9;Ignorado
+Escodif;1;Ninguno
+Escodif;2;Primaria
+Escodif;3;Básica
+Escodif;4;Diversificado
+Escodif;5;Universitario
+Escodif;9;Ignorado
+Ocudif;1111;Miembros del poder legislativo
+Ocudif;1112;Personal directivo de la administración pública
+Ocudif;1113;Jefes de pequeñas poblaciones
+Ocudif;1114;Dirigentes de organizaciones que presentan un interés especial
+Ocudif;1120;Directores generales y gerentes generales
+Ocudif;1211;Directores financieros
+Ocudif;1212;Directores de recursos humanos
+Ocudif;1213;Directores de políticas y planificación
+Ocudif;1219;Directores de administración y servicios no clasificados bajo otros epígrafes
+Ocudif;1221;Directores de ventas y comercialización
+Ocudif;1222;Directores de publicidad y relaciones públicas
+Ocudif;1223;Directores de investigación y desarrollo
+Ocudif;1311;Directores de producción agropecuaria y silvicultura
+Ocudif;1312;Directores de producción de piscicultura y pesca
+Ocudif;1321;Directores de industrias manufactureras
+Ocudif;1322;Directores de explotaciones de minería
+Ocudif;1323;Directores de empresas de construcción
+Ocudif;1324;Directores de empresas de abastecimiento, distribución y afines
+Ocudif;1330;Directores de servicios de tecnología de la información y las comunicaciones
+Ocudif;1341;Directores de servicios de cuidados infantiles
+Ocudif;1342;Directores de servicios de salud
+Ocudif;1343;Directores de servicios de cuidado de las personas de edad
+Ocudif;1344;Directores  de servicios de bienestar social
+Ocudif;1345;Directores de servicios de educación
+Ocudif;1346;Gerentes de sucursales de bancos, de servicios financieros y de seguros
+Ocudif;1349;Directores y gerentes de servicios profesionales no clasificados bajo otros epígrafes
+Ocudif;1411;Gerentes de hoteles
+Ocudif;1412;Gerentes de restaurantes
+Ocudif;1420;Gerentes de comercios al por mayor y al por menor
+Ocudif;1431;Gerentes de centros deportivos, de esparcimiento y culturales
+Ocudif;1439;Gerentes de servicios no clasificados bajo otros epígrafes
+Ocudif;2111;Físicos y astrónomos
+Ocudif;2112;Meteorólogos
+Ocudif;2113;Químicos
+Ocudif;2114;Geólogos y geofísicos
+Ocudif;2120;Matemáticos, actuarios y estadísticos
+Ocudif;2131;Biólogos, botánicos, zoólogos y afines
+Ocudif;2132;Agrónomos y afines
+Ocudif;2133;Profesionales de la protección medioambiental
+Ocudif;2141;Ingenieros industriales y de producción
+Ocudif;2142;Ingenieros civiles
+Ocudif;2143;Ingenieros medioambientales
+Ocudif;2144;Ingenieros mecánicos
+Ocudif;2145;Ingenieros químicos
+Ocudif;2146;Ingenieros de minas, metalúrgicos y afines
+Ocudif;2149;Ingenieros no clasificados bajo otros epígrafes
+Ocudif;2151;Ingenieros electricistas
+Ocudif;2152;Ingenieros electrónicos
+Ocudif;2153;Ingenieros en telecomunicaciones
+Ocudif;2161;Arquitectos
+Ocudif;2162;Arquitectos paisajistas
+Ocudif;2163;Diseñadores de productos y de prendas
+Ocudif;2164;Urbanistas e ingenieros de tránsito
+Ocudif;2165;Cartógrafos y agrimensores
+Ocudif;2166;Diseñadores gráficos y multimedia
+Ocudif;2211;Médicos generales
+Ocudif;2212;Médicos especialistas 
+Ocudif;2221;Profesionales de enfermería
+Ocudif;2222;Profesionales de partería
+Ocudif;2230;Profesionales de medicina tradicional y alternativa
+Ocudif;2240;Practicantes paramédicos
+Ocudif;2250;Veterinarios
+Ocudif;2261;Dentistas
+Ocudif;2262;Farmacéuticos
+Ocudif;2263;Profesionales de la salud y la higiene laboral y ambiental
+Ocudif;2264;Fisioterapeutas 
+Ocudif;2265;Dietistas y nutricionistas
+Ocudif;2266;Audiólogos y logopedas
+Ocudif;2267;Optometristas
+Ocudif;2269;Profesionales de la salud no clasificados bajo otros epígrafes
+Ocudif;2310;Profesores de universidades y de la enseñanza superior
+Ocudif;2320;Profesores de formación profesional
+Ocudif;2330;Profesores de enseñanza secundaria
+Ocudif;2341;Maestros de enseñanza primaria
+Ocudif;2342;Maestros preescolares
+Ocudif;2351;Especialistas en métodos pedagógicos
+Ocudif;2352;Educadores para necesidades especiales
+Ocudif;2353;Otros profesores de idiomas
+Ocudif;2354;Otros profesores de música
+Ocudif;2355;Otros profesores de artes
+Ocudif;2356;Instructores en tecnología de la información
+Ocudif;2359;Profesionales de la enseñanza no clasificados bajo otros epígrafes
+Ocudif;2411;Contables
+Ocudif;2412;Asesores financieros y en inversiones
+Ocudif;2413;Analistas financieros
+Ocudif;2421;Analistas de gestión y organización
+Ocudif;2422;Especialistas en políticas de administración
+Ocudif;2423;Especialistas en políticas y servicios de personal y afines
+Ocudif;2424;Especialistas en formación del personal
+Ocudif;2431;Profesionales de la publicidad y la comercialización
+Ocudif;2432;Profesionales de relaciones públicas
+Ocudif;2433;Profesionales de ventas técnicas y médicas (excluyendo la TIC)
+Ocudif;2434;Profesionales de ventas de tecnología de la información y las comunicaciones
+Ocudif;2511;Analistas de sistemas
+Ocudif;2512;Desarrolladores de software
+Ocudif;2513;Desarrolladores Web y multimedia
+Ocudif;2514;Programadores de aplicaciones
+Ocudif;2519;Desarrolladores y analistas de software y multimedia y analistas no clasificados bajo otros epígrafes
+Ocudif;2521;Diseñadores y administradores de bases de datos
+Ocudif;2522;Administradores de sistemas
+Ocudif;2523;Profesionales en redes de computadores
+Ocudif;2529;Especialistas en bases de datos y en redes de computadores no clasificados bajo otros epígrafes
+Ocudif;2611;Abogados
+Ocudif;2612;Jueces
+Ocudif;2619;Profesionales en derecho no clasificados bajo otros epígrafes
+Ocudif;2621;Archivistas y curadores de museos
+Ocudif;2622;Bibliotecarios, documentalistas y afines
+Ocudif;2631;Economistas
+Ocudif;2632;Sociólogos, antropólogos y afines
+Ocudif;2633;Filósofos, historiadores y especialistas en ciencias políticas
+Ocudif;2634;Psicólogos
+Ocudif;2635;Profesionales del trabajo social
+Ocudif;2636;Profesionales religiosos
+Ocudif;2641;Autores y otros escritores
+Ocudif;2642;Periodistas
+Ocudif;2643;Traductores, intérpretes y lingüistas
+Ocudif;2651;Artistas de artes plásticas
+Ocudif;2652;Músicos, cantantes y compositores
+Ocudif;2653;Bailarines y coreógrafos
+Ocudif;2654;Directores de cine, de teatro y afines
+Ocudif;2655;Actores
+Ocudif;2656;Locutores de radio, televisión y otros medios de comunicación
+Ocudif;2659;Artistas creativos e interpretativos no clasificados bajo otros epígrafes
+Ocudif;3111;Técnicos en ciencias físicas y químicas
+Ocudif;3112;Técnicos en ingeniería civil
+Ocudif;3113;Electrotécnicos
+Ocudif;3114;Técnicos en electrónica
+Ocudif;3115;Técnicos en ingeniería mecánica
+Ocudif;3116;Técnicos en química industrial
+Ocudif;3117;Técnicos en ingeniería de minas y metalurgia
+Ocudif;3118;Delineantes y dibujantes técnicos
+Ocudif;3119;Técnicos en ciencias físicas y en ingeniería no clasificados bajo otros epígrafes
+Ocudif;3121;Supervisores en ingeniería de minas
+Ocudif;3122;Supervisores de industrias manufactureras
+Ocudif;3123;Supervisores de la construcción
+Ocudif;3131;Operadores de instalaciones de producción de energía
+Ocudif;3132;Operadores de incineradores, instalaciones de tratamiento de agua y afines
+Ocudif;3133;Controladores de instalaciones de procesamiento de productos químicos
+Ocudif;3134;Operadores de instalaciones de refinación de petróleo y gas natural
+Ocudif;3135;Controladores de procesos de producción de metales
+Ocudif;3139;Técnicos en control de procesos no clasificados bajo otros epígrafes
+Ocudif;3141;Técnicos en ciencias biológicas (excluyendo la medicina)
+Ocudif;3142;Técnicos agropecuarios
+Ocudif;3143;Técnicos forestales
+Ocudif;3151;Oficiales maquinistas en navegación
+Ocudif;3152;Capitanes, oficiales de cubierta y prácticos
+Ocudif;3153;Pilotos de aviación y afines
+Ocudif;3154;Controladores de tráfico aéreo
+Ocudif;3155;Técnicos en seguridad aeronáutica
+Ocudif;3211;Técnicos en aparatos de diagnóstico y tratamiento médico
+Ocudif;3212;Técnicos de laboratorios médicos
+Ocudif;3213;Técnicos y asistentes farmacéuticos
+Ocudif;3214;Técnicos de prótesis médicas y dentales
+Ocudif;3221;Profesionales de nivel medio de enfermería
+Ocudif;3222;Profesionales de nivel medio de partería
+Ocudif;3230;Profesionales de nivel medio de medicina tradicional y alternativa
+Ocudif;3240;Técnicos y asistentes veterinarios
+Ocudif;3251;Dentistas auxiliares y ayudantes de odontología
+Ocudif;3252;Técnicos en documentación sanitaria
+Ocudif;3253;Trabajadores comunitarios de la salud
+Ocudif;3254;Técnicos en optometría y ópticos
+Ocudif;3255;Técnicos y asistentes fisioterapeutas
+Ocudif;3256;Practicantes y asistentes médicos
+Ocudif;3257;Inspectores de la salud laboral,  medioambiental y afines
+Ocudif;3258;Ayudantes de ambulancias
+Ocudif;3259;Profesionales de la salud de nivel medio no clasificados bajo otros epígrafes
+Ocudif;3311;Agentes de bolsa, cambio y otros servicios financieros
+Ocudif;3312;Oficiales de préstamos y créditos
+Ocudif;3313;Tenedores de libros
+Ocudif;3314;Profesionales de nivel medio de servicios estadísticos, matemáticos y afines
+Ocudif;3315;Tasadores
+Ocudif;3321;Agentes de seguros
+Ocudif;3322;Representantes comerciales
+Ocudif;3323;Agentes de compras
+Ocudif;3324;Agentes de compras y consignatarios
+Ocudif;3331;Declarantes o gestores de aduana
+Ocudif;3332;Organizadores de conferencias y eventos
+Ocudif;3333;Agentes de empleo y contratistas de mano de obra
+Ocudif;3334;Agentes inmobiliarios
+Ocudif;3339;Agentes de servicios comerciales no clasificados bajo otros epígrafes
+Ocudif;3341;Supervisores de secretaría
+Ocudif;3342;Secretarios jurídicos
+Ocudif;3343;Secretarios administrativos y ejecutivos
+Ocudif;3344;Secretarios médicos
+Ocudif;3351;Agentes de aduana e inspectores de fronteras
+Ocudif;3352;Agentes de administración tributaria
+Ocudif;3353;Agentes de servicios de seguridad social
+Ocudif;3354;Agentes de servicios de expedición de licencias y permisos
+Ocudif;3355;Inspectores de policía y detectives
+Ocudif;3359;Agentes de la administración pública para la aplicacion de la ley y afines no clasificados bajo otros epígrafes
+Ocudif;3411;Profesionales de nivel medio del derecho y servicios legales y afines
+Ocudif;3412;Trabajadores y asistentes sociales de nivel medio
+Ocudif;3413;Auxiliares laicos de las religiones
+Ocudif;3421;Atletas y deportistas
+Ocudif;3422;Entrenadores, instructores y árbitros de actividades deportivas
+Ocudif;3423;Instructores de educación física y actividades recreativas
+Ocudif;3431;Fotógrafos
+Ocudif;3432;Diseñadores y decoradores de interior
+Ocudif;3433;Técnicos en galerías de arte, museos y bibliotecas
+Ocudif;3434;Chefs
+Ocudif;3435;Otros profesionales de nivel medio en actividades culturales y artísticas
+Ocudif;3511;Técnicos en operaciones de tecnología de la información y las comunicaciones
+Ocudif;3512;Técnicos en asistencia al usuario de tecnología de la información y las comunicaciones
+Ocudif;3513;Técnicos en redes y sistemas de computadores
+Ocudif;3514;Técnicos de la Web
+Ocudif;3521;Técnicos de radiodifusión y grabación audio visual
+Ocudif;3522;Técnicos de ingeniería de las telecomunicaciones
+Ocudif;4110;Oficinistas generales
+Ocudif;4120;Secretarios (general)
+Ocudif;413;Operadores de máquinas de oficina
+Ocudif;4131;Operadores de máquinas de procesamiento de texto y mecanógrafos
+Ocudif;4132;Grabadores de datos
+Ocudif;4211;Cajeros de bancos y afines
+Ocudif;4212;Receptores de apuestas y afines
+Ocudif;4213;Prestamistas
+Ocudif;4214;Cobradores y afines
+Ocudif;4221;Empleados de agencias de viajes
+Ocudif;4222;Empleados de centros de llamadas
+Ocudif;4223;Telefonistas
+Ocudif;4224;Recepcionistas de hoteles
+Ocudif;4225;Empleados de ventanillas de informaciones
+Ocudif;4226;Recepcionistas (general)
+Ocudif;4227;Entrevistadores de encuestas y de investigaciones de mercados
+Ocudif;4229;Empleados de servicios de información al cliente no clasificados bajo otros epígrafes
+Ocudif;4311;Empleados de contabilidad y cálculo de costos
+Ocudif;4312;Empleados de servicios estadísticos, financieros y de seguros
+Ocudif;4313;Empleados encargados de las nóminas
+Ocudif;4321;Empleados de control de abastecimientos e inventario
+Ocudif;4322;Empleados de servicios de apoyo a la producción
+Ocudif;4323;Empleados de servicios de transporte
+Ocudif;4411;Empleados de bibliotecas
+Ocudif;4412;Empleados de servicios de correos
+Ocudif;4413;Codificadores de datos, correctores de pruebas de imprenta y afines
+Ocudif;4414;Escribientes públicos y afines
+Ocudif;4415;Empleados de archivos
+Ocudif;4416;Empleados del servicio de personal
+Ocudif;4419;Personal de apoyo administrativo no clasificado bajo otros epígrafes
+Ocudif;5111;Auxiliares de servicio de abordo
+Ocudif;5112;Revisores y cobradores de los transportes públicos
+Ocudif;5113;Guías de turismo
+Ocudif;5120;Cocineros
+Ocudif;5131;Camareros de mesas
+Ocudif;5132;Camareros de barra
+Ocudif;5141;Peluqueros
+Ocudif;5142;Especialistas en tratamientos de belleza y afines
+Ocudif;5151;Supervisores de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos
+Ocudif;5152;Ecónomos y mayordomos domésticos 
+Ocudif;5153;Conserjes
+Ocudif;5161;Astrólogos, adivinadores y afines
+Ocudif;5162;Acompañantes y ayudantes de cámara
+Ocudif;5163;Personal de pompas fúnebres y embalsamadores
+Ocudif;5164;Cuidadores de animales
+Ocudif;5165;Instructores de autoescuela
+Ocudif;5169;Trabajadores de servicios personales no clasificados bajo otros epígrafes
+Ocudif;5211;Vendedores de quioscos y de puestos de mercado
+Ocudif;5212;Vendedores ambulantes de productos comestibles
+Ocudif;5221;Comerciantes de tiendas
+Ocudif;5222;Supervisores de tiendas y almacenes
+Ocudif;5223;Asistentes de venta de tiendas y almacenes
+Ocudif;5230;Cajeros y expendedores de billetes
+Ocudif;5241;Modelos de moda, arte y publicidad
+Ocudif;5242;Demostradores de tiendas
+Ocudif;5243;Vendedores puerta a puerta
+Ocudif;5244;Vendedores por teléfono
+Ocudif;5245;Expendedores de gasolineras
+Ocudif;5246;Vendedores de comidas al mostrador
+Ocudif;5249;Vendedores no clasificados bajo otros epígrafes
+Ocudif;5311;Cuidadores de niños
+Ocudif;5312;Auxiliares de maestros
+Ocudif;5321;Trabajadores de los cuidados personales en instituciones
+Ocudif;5322;Trabajadores de los cuidados personales a domicilio
+Ocudif;5329;Trabajadores de los cuidados personales en servicios de salud no clasificados bajo otros epígrafes
+Ocudif;5411;Bomberos
+Ocudif;5412;Policías
+Ocudif;5413;Guardianes de prisión
+Ocudif;5414;Guardias de protección
+Ocudif;5419;Personal de los servicios de protección no clasificados bajo otros epígrafes
+Ocudif;6111;Agricultores y trabajadores calificados de cultivos extensivos
+Ocudif;6112;Agricultores y trabajadores calificados de plantaciones de árboles y arbustos
+Ocudif;6113;Agricultores y trabajadores calificados de huertas, invernaderos, viveros y jardines
+Ocudif;6114;Agricultores y trabajadores calificados de cultivos mixtos
+Ocudif;6121;Criadores de ganado
+Ocudif;6122;Avicultores y trabajadores calificados de la avicultura
+Ocudif;6123;Apicultores y sericultores y trabajadores calificados de la apicultura y la sericultura
+Ocudif;6129;Criadores y trabajadores pecuarios calificados de la cría de animales no clasificados bajo otros epígrafes
+Ocudif;6130;Productores y trabajadores calificados de explotaciones agropecuarias mixtas cuya producción se destina al mercado
+Ocudif;6210;Trabajadores forestales calificados y afines
+Ocudif;6221;Trabajadores de explotaciones de acuicultura
+Ocudif;6222;Pescadores de agua dulce y en aguas costeras
+Ocudif;6223;Pescadores de alta mar
+Ocudif;6224;Cazadores y tramperos
+Ocudif;6310;Trabajadores agrícolas de subsistencia
+Ocudif;6320;Trabajadores pecuarios de subsistencia
+Ocudif;6330;Trabajadores agropecuarios de subsistencia
+Ocudif;6340;Pescadores, cazadores, tramperos y recolectores de subsistencia
+Ocudif;7111;Constructores de casas
+Ocudif;7112;Albañiles
+Ocudif;7113;Mamposteros, tronzadores, labrantes y grabadores de piedra
+Ocudif;7114;Operarios en cemento armado, enfoscadores y afines
+Ocudif;7115;Carpinteros de armar y de obra blanca
+Ocudif;7119;Oficiales y operarios de la construcción (obra gruesa) y afines no clasificados bajo otros epígrafes
+Ocudif;7121;Techadores
+Ocudif;7122;Parqueteros y colocadores de suelos
+Ocudif;7123;Revocadores
+Ocudif;7124;Instaladores de material aislante y de insonorización
+Ocudif;7125;Cristaleros
+Ocudif;7126;Fontaneros e instaladores de tuberías
+Ocudif;7127;Mecánicos-montadores de instalaciones de refrigeración y climatización
+Ocudif;7131;Pintores y empapeladores
+Ocudif;7132;Barnizadores y afines
+Ocudif;7133;Limpiadores de fachadas y deshollinadores
+Ocudif;7211;Moldeadores y macheros
+Ocudif;7212;Soldadores y oxicortadores
+Ocudif;7213;Chapistas y caldereros
+Ocudif;7214;Montadores de estructuras metálicas
+Ocudif;7215;Aparejadores y empalmadores de cables
+Ocudif;7221;Herreros y forjadores
+Ocudif;7222;Herramentistas y afines
+Ocudif;7223;Reguladores y operadores de máquinas herramientas
+Ocudif;7224;Pulidores de metales y afiladores de herramientas
+Ocudif;7231;Mecánicos y reparadores de vehículos de motor
+Ocudif;7232;Mecánicos y reparadores de motores de avión
+Ocudif;7233;Mecánicos y reparadores de máquinas agrícolas e industriales
+Ocudif;7234;Reparadores de bicicletas y afines
+Ocudif;7311;Mecánicos y reparadores de instrumentos de precisión
+Ocudif;7312;Fabricantes y afinadores de instrumentos musicales
+Ocudif;7313;Joyeros, orfebres y plateros
+Ocudif;7314;Alfareros y afines (barro, arcilla y abrasivos)
+Ocudif;7315;Sopladores, modeladores, laminadores, cortadores y pulidores de vidrio
+Ocudif;7316;Redactores de carteles, pintores decorativos y grabadores
+Ocudif;7317;Artesanos en madera, cestería y materiales similares
+Ocudif;7318;Artesanos de los tejidos, el cuero y materiales similares
+Ocudif;7319;Artesanos no clasificados bajo otros epígrafes
+Ocudif;732;Oficiales y operarios de las artes gráficas
+Ocudif;7321;Cajistas, tipógrafos y afines
+Ocudif;7322;Impresores
+Ocudif;7323;Encuadernadores y afines
+Ocudif;7411;Electricistas de obras y afines
+Ocudif;7412;Mecánicos y ajustadores electricistas
+Ocudif;7413;Instaladores y reparadores de líneas eléctricas 
+Ocudif;7421;Mecánicos y reparadores en electrónica
+Ocudif;7422;Instaladores y reparadores en tecnología de la información y las comunicaciones
+Ocudif;7511;Carniceros, pescaderos y afines
+Ocudif;7512;Panaderos, pasteleros y confiteros
+Ocudif;7513;Operarios de la elaboración de productos lácteos
+Ocudif;7514;Operarios de la conservación de frutas, legumbres, verduras y afines
+Ocudif;7515;Catadores y clasificadores de alimentos y bebidas
+Ocudif;7516;Preparadores y elaboradores de tabaco y sus productos
+Ocudif;7521;Operarios del tratamiento de la madera
+Ocudif;7522;Ebanistas y afines
+Ocudif;7523;Reguladores y operadores de máquinas de labrar madera
+Ocudif;7531;Sastres, modistos, peleteros y sombrereros
+Ocudif;7532;Patronistas y cortadores de tela y afines
+Ocudif;7533;Costureros, bordadores y afines
+Ocudif;7534;Tapiceros, colchoneros y afines
+Ocudif;7535;Apelambradores, pellejeros y curtidores
+Ocudif;7536;Zapateros y afines
+Ocudif;7541;Buzos
+Ocudif;7542;Dinamiteros y pegadores
+Ocudif;7543;Clasificadores y probadores de productos (excluyendo alimentos y bebidas)
+Ocudif;7544;Fumigadores y otros controladores de plagas y malas hierbas
+Ocudif;7549;Oficiales, operarios y artesanos de artes mecánicas y de otros oficios no clasificados bajo otros epígrafes
+Ocudif;8111;Mineros y operadores de instalaciones mineras
+Ocudif;8112;Operadores de instalaciones de procesamiento de minerales y rocas
+Ocudif;8113;Perforadores y sondistas de pozos y afines
+Ocudif;8114;Operadores de máquinas para fabricar cemento y otros productos minerales
+Ocudif;8121;Operadores de instalaciones de procesamiento de metales
+Ocudif;8122;Operadores de máquinas pulidoras, galvanizadoras y recubridoras de metales 
+Ocudif;8131;Operadores de plantas y máquinas de productos químicos
+Ocudif;8132;Operadores de máquinas para fabricar productos fotográficos
+Ocudif;8141;Operadores de máquinas para fabricar productos de caucho
+Ocudif;8142;Operadores de máquinas para fabricar productos de material plástico
+Ocudif;8143;Operadores de máquinas para fabricar productos de papel
+Ocudif;8151;Operadores de máquinas de preparación de fibras, hilado y devanado
+Ocudif;8152;Operadores de telares y otras máquinas tejedoras
+Ocudif;8153;Operadores de máquinas de coser
+Ocudif;8154;Operadores de máquinas de blanqueamiento, teñido y limpieza de tejidos
+Ocudif;8155;Operadores de máquinas de tratamiento de pieles y cueros
+Ocudif;8156;Operadores de máquinas para la fabricación de calzado y afines
+Ocudif;8157;Operadores de máquinas lavarropas
+Ocudif;8159;Operadores de máquinas para fabricar productos textiles y artículos de piel y cuero no clasificados bajo otros epígrafes
+Ocudif;8160;Operadores de máquinas para elaborar alimentos y productos afines
+Ocudif;8171;Operadores de instalaciones para la preparación de pasta para papel y papel
+Ocudif;8172;Operadores de instalaciones de procesamiento de la madera
+Ocudif;8181;Operadores de instalaciones de vidriería y cerámica
+Ocudif;8182;Operadores de máquinas de vapor y calderas
+Ocudif;8183;Operadores de máquinas de embalaje, embotellamiento y etiquetado 
+Ocudif;8189;Operadores de máquinas y de instalaciones fijas no clasificados bajo otros epígrafes
+Ocudif;8211;Ensambladores de maquinaria mecánica
+Ocudif;8212;Ensambladores de equipos eléctricos y electrónicos
+Ocudif;8219;Ensambladores no clasificados bajo otros epígrafes
+Ocudif;8311;Maquinistas de locomotoras
+Ocudif;8312;Guardafrenos, guardagujas y agentes de maniobras
+Ocudif;8321;Conductores de motocicletas
+Ocudif;8322;Conductores de automóviles, taxis y camionetas
+Ocudif;8331;Conductores de autobuses y tranvías
+Ocudif;8332;Conductores de camiones pesados
+Ocudif;8341;Operadores de maquinaria agrícola y forestal móvil
+Ocudif;8342;Operadores de máquinas de movimiento de tierras y afines
+Ocudif;8343;Operadores de grúas, aparatos elevadores y afines
+Ocudif;8344;Operadores de autoelevadoras
+Ocudif;8350;Marineros de cubierta y afines
+Ocudif;9111;Limpiadores y asistentes domésticos
+Ocudif;9112;Limpiadores y asistentes de oficinas, hoteles y otros establecimientos
+Ocudif;9121;Lavanderos y planchadores manuales
+Ocudif;9122;Lavadores de vehículos
+Ocudif;9123;Lavadores de ventanas
+Ocudif;9129;Otro personal de limpieza
+Ocudif;9211;Peones de explotaciones agrícolas
+Ocudif;9212;Peones de explotaciones ganaderas
+Ocudif;9213;Peones de explotaciones de cultivos mixtos y ganaderos
+Ocudif;9214;Peones de jardinería y horticultura
+Ocudif;9215;Peones forestales
+Ocudif;9216;Peones de pesca y acuicultura
+Ocudif;9311;Peones de minas y canteras
+Ocudif;9312;Peones de obras públicas y mantenimiento
+Ocudif;9313;Peones de la construcción de edificios
+Ocudif;9321;Empacadores manuales
+Ocudif;9329;Peones de la industria manufacturera no clasificados bajo otros epígrafes
+Ocudif;9331;Conductores de vehículos accionados a pedal o a brazo
+Ocudif;9332;Conductores de vehículos y máquinas de tracción animal
+Ocudif;9333;Peones de carga
+Ocudif;9334;Reponedores de estanterías
+Ocudif;9411;Cocineros de comidas rápidas
+Ocudif;9412;Ayudantes de cocina
+Ocudif;9510;Trabajadores ambulantes de servicios y afines
+Ocudif;952;Vendedores ambulantes (excluyendo de comida)
+Ocudif;9520;Vendedores ambulantes (excluyendo de comida)
+Ocudif;9611;Recolectores de basura y material reciclable
+Ocudif;9612;Clasificadores de desechos
+Ocudif;9613;Barrenderos y afines
+Ocudif;9621;Mensajeros, mandaderos, maleteros y repartidores
+Ocudif;9622;Personas que realizan trabajos varios
+Ocudif;9623;Recolectores de dinero en aparatos de venta automática y lectores de medidores
+Ocudif;9624;Acarreadores de agua y recolectores  de  leña
+Ocudif;9629;Ocupaciones elementales no clasificadas bajo otros epígrafes
+Ocudif;0110;Oficiales de las fuerzas armadas
+Ocudif;0210;Suboficiales de las fuerzas armadas
+Ocudif;0310;Otros miembros de las fuerzas armadas
+Ocudif;9711;Oficios domésticos no remunerados
+Ocudif;9712;Estudiante
+Ocudif;9713;Jubilado
+Ocudif;9998;Ocupacion no bien especificada
+Ocudif;9999;Ignorado
+Dnadif;1;Guatemala
+Dnadif;2;El Progreso
+Dnadif;3;Sacatepéquez
+Dnadif;4;Chimaltenango
+Dnadif;5;Escuintla
+Dnadif;6;Santa Rosa
+Dnadif;7;Sololá
+Dnadif;8;Totonicapán
+Dnadif;9;Quetzaltenango
+Dnadif;10;Suchitepéquez
+Dnadif;11;Retalhuleu
+Dnadif;12;San Marcos
+Dnadif;13;Huehuetenango
+Dnadif;14;Quiché
+Dnadif;15;Baja Verapaz
+Dnadif;16;Alta Verapaz
+Dnadif;17;Petén
+Dnadif;18;Izabal
+Dnadif;19;Zacapa
+Dnadif;20;Chiquimula
+Dnadif;21;Jalapa
+Dnadif;22;Jutiapa
+Dnadif;23;Extranjero
+Dnadif;99;Ignorado
+Mnadif;0101;Guatemala
+Mnadif;0102;Santa Catarina Pinula
+Mnadif;0103;San José Pinula
+Mnadif;0104;San José del Golfo
+Mnadif;0105;Palencia
+Mnadif;0106;Chinautla
+Mnadif;0107;San Pedro Ayampuc
+Mnadif;0108;Mixco
+Mnadif;0109;San Pedro Sacatepéquez
+Mnadif;0110;San Juan Sacatepéquez
+Mnadif;0111;San Raymundo
+Mnadif;0112;Chuarrancho
+Mnadif;0113;Fraijanes
+Mnadif;0114;Amatitlán
+Mnadif;0115;Villa Nueva
+Mnadif;0116;Villa Canales
+Mnadif;0117;Petapa
+Mnadif;0201;Guastatoya
+Mnadif;0202;Morazán
+Mnadif;0203;San Agustín Acasaguastlán
+Mnadif;0204;San Cristóbal Acasaguastlán
+Mnadif;0205;El Jícaro
+Mnadif;0206;Sansare
+Mnadif;0207;Sanarate
+Mnadif;0208;San Antonio la Paz
+Mnadif;0301;Antigua Guatemala
+Mnadif;0302;Jocotenango
+Mnadif;0303;Pastores
+Mnadif;0304;Sumpango
+Mnadif;0305;Santo Domingo Xenacoj
+Mnadif;0306;Santiago Sacatepéquez
+Mnadif;0307;San Bartolomé Milpas Altas
+Mnadif;0308;San Lucas Sacatepéquez
+Mnadif;0309;Santa Lucía Milpas Altas
+Mnadif;0310;Magdalena Milpas Altas
+Mnadif;0311;Santa María de Jesús
+Mnadif;0312;Ciudad Vieja
+Mnadif;0313;San Miguel Dueñas
+Mnadif;0314;Alotenango
+Mnadif;0315;San Antonio Aguas Calientes
+Mnadif;0316;Santa Catarina Barahona
+Mnadif;0401;Chimaltenango
+Mnadif;0402;San José Poaquil
+Mnadif;0403;San Martín Jilotepeque
+Mnadif;0404;Comalapa
+Mnadif;0405;Santa Apolonia
+Mnadif;0406;Tecpán Guatemala
+Mnadif;0407;Patzún
+Mnadif;0408;Pochuta
+Mnadif;0409;Patzicía
+Mnadif;0410;Santa Cruz Balanyá
+Mnadif;0411;Acatenango
+Mnadif;0412;Yepocapa
+Mnadif;0413;San Andrés Itzapa
+Mnadif;0414;Parramos
+Mnadif;0415;Zaragoza
+Mnadif;0416;El Tejar
+Mnadif;0501;Escuintla
+Mnadif;0502;Santa Lucía Cotzumalguapa
+Mnadif;0503;La Democracia
+Mnadif;0504;Siquinalá
+Mnadif;0505;Masagua
+Mnadif;0506;Tiquisate
+Mnadif;0507;La Gomera
+Mnadif;0508;Guanagazapa
+Mnadif;0509;San José
+Mnadif;0510;Iztapa
+Mnadif;0511;Palín
+Mnadif;0512;San Vicente Pacaya
+Mnadif;0513;Nueva Concepción
+Mnadif;0601;Cuilapa
+Mnadif;0602;Barberena
+Mnadif;0603;Santa Rosa de Lima
+Mnadif;0604;Casillas
+Mnadif;0605;San Rafael las Flores
+Mnadif;0606;Oratorio
+Mnadif;0607;San Juan Tecuaco
+Mnadif;0608;Chiquimulilla
+Mnadif;0609;Taxisco
+Mnadif;0610;Santa María Ixhuatán
+Mnadif;0611;Guazacapán
+Mnadif;0612;Santa Cruz Naranjo
+Mnadif;0613;Pueblo Nuevo Viñas
+Mnadif;0614;Nueva Santa Rosa
+Mnadif;0701;Sololá
+Mnadif;0702;San José Chacayá
+Mnadif;0703;Santa María Visitación
+Mnadif;0704;Santa Lucía Utatlán
+Mnadif;0705;Nahualá
+Mnadif;0706;Santa Catarina Ixtahuacán
+Mnadif;0707;Santa Clara la Laguna
+Mnadif;0708;Concepción
+Mnadif;0709;San Andrés Semetabaj
+Mnadif;0710;Panajachel
+Mnadif;0711;Santa Catarina Palopó
+Mnadif;0712;San Antonio Palopó
+Mnadif;0713;San Lucas Tolimán
+Mnadif;0714;Santa Cruz la Laguna
+Mnadif;0715;San Pablo la Laguna
+Mnadif;0716;San Marcos la Laguna
+Mnadif;0717;San Juan la Laguna
+Mnadif;0718;San Pedro la Laguna
+Mnadif;0719;Santiago Atitlán
+Mnadif;0801;Totonicapán
+Mnadif;0802;San Cristóbal Totonicapán
+Mnadif;0803;San Francisco el Alto
+Mnadif;0804;San Andrés Xecul
+Mnadif;0805;Momostenango
+Mnadif;0806;Santa María Chiquimula
+Mnadif;0807;Santa Lucía la Reforma
+Mnadif;0808;San Bartolo
+Mnadif;0901;Quetzaltenango
+Mnadif;0902;Salcajá
+Mnadif;0903;Olintepeque
+Mnadif;0904;San Carlos Sija
+Mnadif;0905;Sibilia
+Mnadif;0906;Cabricán
+Mnadif;0907;Cajolá
+Mnadif;0908;San Miguel Siguilá
+Mnadif;0909;Ostuncalco
+Mnadif;0910;San Mateo
+Mnadif;0911;Concepción Chiquirichapa
+Mnadif;0912;San Martín Sacatepéquez
+Mnadif;0913;Almolonga
+Mnadif;0914;Cantel
+Mnadif;0915;Huitán
+Mnadif;0916;Zunil
+Mnadif;0917;Colomba
+Mnadif;0918;San Francisco la Unión
+Mnadif;0919;El Palmar
+Mnadif;0920;Coatepeque
+Mnadif;0921;Génova
+Mnadif;0922;Flores Costa Cuca
+Mnadif;0923;La Esperanza
+Mnadif;0924;Palestina de los Altos
+Mnadif;1001;Mazatenango
+Mnadif;1002;Cuyotenango
+Mnadif;1003;San Francisco Zapotitlán
+Mnadif;1004;San Bernardino
+Mnadif;1005;San José el Idolo
+Mnadif;1006;Santo Domingo Suchitepéquez
+Mnadif;1007;San Lorenzo
+Mnadif;1008;Samayac
+Mnadif;1009;San Pablo Jocopilas
+Mnadif;1010;San Antonio Suchitepéquez
+Mnadif;1011;San Miguel Panán
+Mnadif;1012;San Gabriel
+Mnadif;1013;Chicacao
+Mnadif;1014;Patulul
+Mnadif;1015;Santa Bárbara
+Mnadif;1016;San Juan Bautista
+Mnadif;1017;Santo Tomás la Unión
+Mnadif;1018;Zunilito
+Mnadif;1019;Pueblo Nuevo
+Mnadif;1020;Río Bravo
+Mnadif;1101;Retalhuleu
+Mnadif;1102;San Sebastián
+Mnadif;1103;Santa Cruz Muluá
+Mnadif;1104;San Martín Zapotitlán
+Mnadif;1105;San Felipe
+Mnadif;1106;San Andrés Villa Seca
+Mnadif;1107;Champerico
+Mnadif;1108;Nuevo San Carlos
+Mnadif;1109;El Asintal
+Mnadif;1201;San Marcos
+Mnadif;1202;San Pedro Sacatepéquez
+Mnadif;1203;San Antonio Sacatepéquez
+Mnadif;1204;Comitancillo
+Mnadif;1205;San Miguel Ixtahuacán
+Mnadif;1206;Concepción Tutuapa
+Mnadif;1207;Tacaná
+Mnadif;1208;Sibinal
+Mnadif;1209;Tajumulco
+Mnadif;1210;Tejutla
+Mnadif;1211;San Rafael Pié de la Cuesta
+Mnadif;1212;Nuevo Progreso
+Mnadif;1213;El Tumbador
+Mnadif;1214;El Rodeo
+Mnadif;1215;Malacatán
+Mnadif;1216;Catarina
+Mnadif;1217;Ayutla
+Mnadif;1218;Ocós
+Mnadif;1219;San Pablo
+Mnadif;1220;El Quetzal
+Mnadif;1221;La Reforma
+Mnadif;1222;Pajapita
+Mnadif;1223;Ixchiguán
+Mnadif;1224;San José Ojetenán
+Mnadif;1225;San Cristóbal Cucho
+Mnadif;1226;Sipacapa
+Mnadif;1227;Esquipulas Palo Gordo
+Mnadif;1228;Río Blanco
+Mnadif;1229;San Lorenzo
+Mnadif;1301;Huehuetenango
+Mnadif;1302;Chiantla
+Mnadif;1303;Malacatancito
+Mnadif;1304;Cuilco
+Mnadif;1305;Nentón
+Mnadif;1306;San Pedro Necta
+Mnadif;1307;Jacaltenango
+Mnadif;1308;Soloma
+Mnadif;1309;Ixtahuacán
+Mnadif;1310;Santa Bárbara
+Mnadif;1311;La Libertad
+Mnadif;1312;La Democracia
+Mnadif;1313;San Miguel Acatán
+Mnadif;1314;San Rafael la Independencia
+Mnadif;1315;Todos Santos Cuchumatán
+Mnadif;1316;San Juan Atitán
+Mnadif;1317;Santa Eulalia
+Mnadif;1318;San Mateo Ixtatán
+Mnadif;1319;Colotenango
+Mnadif;1320;San Sebastián Huehuetenango
+Mnadif;1321;Tectitán
+Mnadif;1322;Concepción Huista
+Mnadif;1323;San Juan Ixcoy
+Mnadif;1324;San Antonio Huista
+Mnadif;1325;San Sebastián Coatán
+Mnadif;1326;Barillas
+Mnadif;1327;Aguacatán
+Mnadif;1328;San Rafael Petzal
+Mnadif;1329;San Gaspar Ixchil
+Mnadif;1330;Santiago Chimaltenango
+Mnadif;1331;Santa Ana Huista
+Mnadif;1332;Unión Cantinil
+Mnadif;1401;Santa Cruz del Quiché
+Mnadif;1402;Chiché
+Mnadif;1403;Chinique
+Mnadif;1404;Zacualpa
+Mnadif;1405;Chajul
+Mnadif;1406;Chichicastenango
+Mnadif;1407;Patzité
+Mnadif;1408;San Antonio Ilotenango
+Mnadif;1409;San Pedro Jocopilas
+Mnadif;1410;Cunén
+Mnadif;1411;San Juan Cotzal
+Mnadif;1412;Joyabaj
+Mnadif;1413;Nebaj
+Mnadif;1414;San Andrés Sajcabajá
+Mnadif;1415;Uspantán
+Mnadif;1416;Sacapulas
+Mnadif;1417;San Bartolomé Jocotenango
+Mnadif;1418;Canillá
+Mnadif;1419;Chicamán
+Mnadif;1420;Ixcán
+Mnadif;1421;Pachalum
+Mnadif;1501;Salamá
+Mnadif;1502;San Miguel Chicaj
+Mnadif;1503;Rabinal
+Mnadif;1504;Cubulco
+Mnadif;1505;Granados
+Mnadif;1506;El Chol
+Mnadif;1507;San Jerónimo
+Mnadif;1508;Purulhá
+Mnadif;1601;Cobán
+Mnadif;1602;Santa Cruz Verapaz
+Mnadif;1603;San Cristóbal Verapaz
+Mnadif;1604;Tactic
+Mnadif;1605;Tamahú
+Mnadif;1606;Tucurú
+Mnadif;1607;Panzós
+Mnadif;1608;Senahú
+Mnadif;1609;San Pedro Carchá
+Mnadif;1610;San Juan Chamelco
+Mnadif;1611;Lanquín
+Mnadif;1612;Cahabón
+Mnadif;1613;Chisec
+Mnadif;1614;Chahal
+Mnadif;1615;Fray Bartolomé de las Casas
+Mnadif;1616;Santa Catalina la Tinta
+Mnadif;1617;Raxruhá
+Mnadif;1701;Flores
+Mnadif;1702;San José
+Mnadif;1703;San Benito
+Mnadif;1704;San Andrés
+Mnadif;1705;La Libertad
+Mnadif;1706;San Francisco
+Mnadif;1707;Santa Ana
+Mnadif;1708;Dolores
+Mnadif;1709;San Luis
+Mnadif;1710;Sayaxché
+Mnadif;1711;Melchor de Mencos
+Mnadif;1712;Poptún
+Mnadif;1713;Las Cruces
+Mnadif;1801;Puerto Barrios
+Mnadif;1802;Livingston
+Mnadif;1803;El Estor
+Mnadif;1804;Morales
+Mnadif;1805;Los Amates
+Mnadif;1901;Zacapa
+Mnadif;1902;Estanzuela
+Mnadif;1903;Río Hondo
+Mnadif;1904;Gualán
+Mnadif;1905;Teculután
+Mnadif;1906;Usumatlán
+Mnadif;1907;Cabañas
+Mnadif;1908;San Diego
+Mnadif;1909;La Unión
+Mnadif;1910;Huité
+Mnadif;2001;Chiquimula
+Mnadif;2002;San José La Arada
+Mnadif;2003;San Juan Ermita
+Mnadif;2004;Jocotán
+Mnadif;2005;Camotán
+Mnadif;2006;Olopa
+Mnadif;2007;Esquipulas
+Mnadif;2008;Concepción Las Minas
+Mnadif;2009;Quetzaltepeque
+Mnadif;2010;San Jacinto
+Mnadif;2011;Ipala
+Mnadif;2101;Jalapa
+Mnadif;2102;San Pedro Pinula
+Mnadif;2103;San Luis Jilotepeque
+Mnadif;2104;San Manuel Chaparrón
+Mnadif;2105;San Carlos Alzatate
+Mnadif;2106;Monjas
+Mnadif;2107;Mataquescuintla
+Mnadif;2201;Jutiapa
+Mnadif;2202;El Progreso
+Mnadif;2203;Santa Catarina Mita
+Mnadif;2204;Agua Blanca
+Mnadif;2205;Asunción Mita
+Mnadif;2206;Yupiltepeque
+Mnadif;2207;Atescatempa
+Mnadif;2208;Jerez
+Mnadif;2209;El Adelanto
+Mnadif;2210;Zapotitlán
+Mnadif;2211;Comapa
+Mnadif;2212;Jalpatagua
+Mnadif;2213;Conguaco
+Mnadif;2214;Moyuta
+Mnadif;2215;Pasaco
+Mnadif;2216;San José Acatempa
+Mnadif;2217;Quesada
+Mnadif;2300;Extranjero
+Mnadif;9999;Ignorado
+Nacdif;32;Argentina
+Nacdif;44;Bahamas
+Nacdif;56;Bélgica
+Nacdif;68;Bolivia
+Nacdif;76;Brasil
+Nacdif;84;Belice
+Nacdif;124;Canadá
+Nacdif;152;Chile
+Nacdif;156;China
+Nacdif;170;Colombia
+Nacdif;188;Costa Rica
+Nacdif;192;Cuba
+Nacdif;214;República Dominicana
+Nacdif;218;Ecuador
+Nacdif;222;El Salvador
+Nacdif;276;Alemania
+Nacdif;320;Guatemala
+Nacdif;340;Honduras
+Nacdif;376;Israel
+Nacdif;380;Italia
+Nacdif;392;Japón
+Nacdif;400;Jordania
+Nacdif;410;Corea Del Sur
+Nacdif;568;Gran Bretaña
+Nacdif;600;Paraguay
+Nacdif;604;Perú
+Nacdif;616;Polonia
+Nacdif;620;Portugal
+Nacdif;630;Puerto Rico
+Nacdif;643;Rusia
+Nacdif;718;Holanda
+Nacdif;720;Nicaragua
+Nacdif;723;México
+Nacdif;724;España
+Nacdif;756;Suiza
+Nacdif;840;Estados Unidos de América
+Nacdif;1020;Francia
+Nacdif;1026;Panamá
+Nacdif;9999;Ignorado
+Dredif;1;Guatemala
+Dredif;2;El Progreso
+Dredif;3;Sacatepéquez
+Dredif;4;Chimaltenango
+Dredif;5;Escuintla
+Dredif;6;Santa Rosa
+Dredif;7;Sololá
+Dredif;8;Totonicapán
+Dredif;9;Quetzaltenango
+Dredif;10;Suchitepéquez
+Dredif;11;Retalhuleu
+Dredif;12;San Marcos
+Dredif;13;Huehuetenango
+Dredif;14;Quiché
+Dredif;15;Baja Verapaz
+Dredif;16;Alta Verapaz
+Dredif;17;Petén
+Dredif;18;Izabal
+Dredif;19;Zacapa
+Dredif;20;Chiquimula
+Dredif;21;Jalapa
+Dredif;22;Jutiapa
+Dredif;23;Extranjero
+Dredif;99;Ignorado
+Mredif;0101;Guatemala
+Mredif;0102;Santa Catarina Pinula
+Mredif;0103;San José Pinula
+Mredif;0104;San José del Golfo
+Mredif;0105;Palencia
+Mredif;0106;Chinautla
+Mredif;0107;San Pedro Ayampuc
+Mredif;0108;Mixco
+Mredif;0109;San Pedro Sacatepéquez
+Mredif;0110;San Juan Sacatepéquez
+Mredif;0111;San Raymundo
+Mredif;0112;Chuarrancho
+Mredif;0113;Fraijanes
+Mredif;0114;Amatitlán
+Mredif;0115;Villa Nueva
+Mredif;0116;Villa Canales
+Mredif;0117;Petapa
+Mredif;0201;Guastatoya
+Mredif;0202;Morazán
+Mredif;0203;San Agustín Acasaguastlán
+Mredif;0204;San Cristóbal Acasaguastlán
+Mredif;0205;El Jícaro
+Mredif;0206;Sansare
+Mredif;0207;Sanarate
+Mredif;0208;San Antonio la Paz
+Mredif;0301;Antigua Guatemala
+Mredif;0302;Jocotenango
+Mredif;0303;Pastores
+Mredif;0304;Sumpango
+Mredif;0305;Santo Domingo Xenacoj
+Mredif;0306;Santiago Sacatepéquez
+Mredif;0307;San Bartolomé Milpas Altas
+Mredif;0308;San Lucas Sacatepéquez
+Mredif;0309;Santa Lucía Milpas Altas
+Mredif;0310;Magdalena Milpas Altas
+Mredif;0311;Santa María de Jesús
+Mredif;0312;Ciudad Vieja
+Mredif;0313;San Miguel Dueñas
+Mredif;0314;Alotenango
+Mredif;0315;San Antonio Aguas Calientes
+Mredif;0316;Santa Catarina Barahona
+Mredif;0401;Chimaltenango
+Mredif;0402;San José Poaquil
+Mredif;0403;San Martín Jilotepeque
+Mredif;0404;Comalapa
+Mredif;0405;Santa Apolonia
+Mredif;0406;Tecpán Guatemala
+Mredif;0407;Patzún
+Mredif;0408;Pochuta
+Mredif;0409;Patzicía
+Mredif;0410;Santa Cruz Balanyá
+Mredif;0411;Acatenango
+Mredif;0412;Yepocapa
+Mredif;0413;San Andrés Itzapa
+Mredif;0414;Parramos
+Mredif;0415;Zaragoza
+Mredif;0416;El Tejar
+Mredif;0501;Escuintla
+Mredif;0502;Santa Lucía Cotzumalguapa
+Mredif;0503;La Democracia
+Mredif;0504;Siquinalá
+Mredif;0505;Masagua
+Mredif;0506;Tiquisate
+Mredif;0507;La Gomera
+Mredif;0508;Guanagazapa
+Mredif;0509;San José
+Mredif;0510;Iztapa
+Mredif;0511;Palín
+Mredif;0512;San Vicente Pacaya
+Mredif;0513;Nueva Concepción
+Mredif;0601;Cuilapa
+Mredif;0602;Barberena
+Mredif;0603;Santa Rosa de Lima
+Mredif;0604;Casillas
+Mredif;0605;San Rafael las Flores
+Mredif;0606;Oratorio
+Mredif;0607;San Juan Tecuaco
+Mredif;0608;Chiquimulilla
+Mredif;0609;Taxisco
+Mredif;0610;Santa María Ixhuatán
+Mredif;0611;Guazacapán
+Mredif;0612;Santa Cruz Naranjo
+Mredif;0613;Pueblo Nuevo Viñas
+Mredif;0614;Nueva Santa Rosa
+Mredif;0701;Sololá
+Mredif;0702;San José Chacayá
+Mredif;0703;Santa María Visitación
+Mredif;0704;Santa Lucía Utatlán
+Mredif;0705;Nahualá
+Mredif;0706;Santa Catarina Ixtahuacán
+Mredif;0707;Santa Clara la Laguna
+Mredif;0708;Concepción
+Mredif;0709;San Andrés Semetabaj
+Mredif;0710;Panajachel
+Mredif;0711;Santa Catarina Palopó
+Mredif;0712;San Antonio Palopó
+Mredif;0713;San Lucas Tolimán
+Mredif;0714;Santa Cruz la Laguna
+Mredif;0715;San Pablo la Laguna
+Mredif;0716;San Marcos la Laguna
+Mredif;0717;San Juan la Laguna
+Mredif;0718;San Pedro la Laguna
+Mredif;0719;Santiago Atitlán
+Mredif;0801;Totonicapán
+Mredif;0802;San Cristóbal Totonicapán
+Mredif;0803;San Francisco el Alto
+Mredif;0804;San Andrés Xecul
+Mredif;0805;Momostenango
+Mredif;0806;Santa María Chiquimula
+Mredif;0807;Santa Lucía la Reforma
+Mredif;0808;San Bartolo
+Mredif;0901;Quetzaltenango
+Mredif;0902;Salcajá
+Mredif;0903;Olintepeque
+Mredif;0904;San Carlos Sija
+Mredif;0905;Sibilia
+Mredif;0906;Cabricán
+Mredif;0907;Cajolá
+Mredif;0908;San Miguel Siguilá
+Mredif;0909;Ostuncalco
+Mredif;0910;San Mateo
+Mredif;0911;Concepción Chiquirichapa
+Mredif;0912;San Martín Sacatepéquez
+Mredif;0913;Almolonga
+Mredif;0914;Cantel
+Mredif;0915;Huitán
+Mredif;0916;Zunil
+Mredif;0917;Colomba
+Mredif;0918;San Francisco la Unión
+Mredif;0919;El Palmar
+Mredif;0920;Coatepeque
+Mredif;0921;Génova
+Mredif;0922;Flores Costa Cuca
+Mredif;0923;La Esperanza
+Mredif;0924;Palestina de los Altos
+Mredif;1001;Mazatenango
+Mredif;1002;Cuyotenango
+Mredif;1003;San Francisco Zapotitlán
+Mredif;1004;San Bernardino
+Mredif;1005;San José el Idolo
+Mredif;1006;Santo Domingo Suchitepéquez
+Mredif;1007;San Lorenzo
+Mredif;1008;Samayac
+Mredif;1009;San Pablo Jocopilas
+Mredif;1010;San Antonio Suchitepéquez
+Mredif;1011;San Miguel Panán
+Mredif;1012;San Gabriel
+Mredif;1013;Chicacao
+Mredif;1014;Patulul
+Mredif;1015;Santa Bárbara
+Mredif;1016;San Juan Bautista
+Mredif;1017;Santo Tomás la Unión
+Mredif;1018;Zunilito
+Mredif;1019;Pueblo Nuevo
+Mredif;1020;Río Bravo
+Mredif;1101;Retalhuleu
+Mredif;1102;San Sebastián
+Mredif;1103;Santa Cruz Muluá
+Mredif;1104;San Martín Zapotitlán
+Mredif;1105;San Felipe
+Mredif;1106;San Andrés Villa Seca
+Mredif;1107;Champerico
+Mredif;1108;Nuevo San Carlos
+Mredif;1109;El Asintal
+Mredif;1201;San Marcos
+Mredif;1202;San Pedro Sacatepéquez
+Mredif;1203;San Antonio Sacatepéquez
+Mredif;1204;Comitancillo
+Mredif;1205;San Miguel Ixtahuacán
+Mredif;1206;Concepción Tutuapa
+Mredif;1207;Tacaná
+Mredif;1208;Sibinal
+Mredif;1209;Tajumulco
+Mredif;1210;Tejutla
+Mredif;1211;San Rafael Pié de la Cuesta
+Mredif;1212;Nuevo Progreso
+Mredif;1213;El Tumbador
+Mredif;1214;El Rodeo
+Mredif;1215;Malacatán
+Mredif;1216;Catarina
+Mredif;1217;Ayutla
+Mredif;1218;Ocós
+Mredif;1219;San Pablo
+Mredif;1220;El Quetzal
+Mredif;1221;La Reforma
+Mredif;1222;Pajapita
+Mredif;1223;Ixchiguán
+Mredif;1224;San José Ojetenán
+Mredif;1225;San Cristóbal Cucho
+Mredif;1226;Sipacapa
+Mredif;1227;Esquipulas Palo Gordo
+Mredif;1228;Río Blanco
+Mredif;1229;San Lorenzo
+Mredif;1301;Huehuetenango
+Mredif;1302;Chiantla
+Mredif;1303;Malacatancito
+Mredif;1304;Cuilco
+Mredif;1305;Nentón
+Mredif;1306;San Pedro Necta
+Mredif;1307;Jacaltenango
+Mredif;1308;Soloma
+Mredif;1309;Ixtahuacán
+Mredif;1310;Santa Bárbara
+Mredif;1311;La Libertad
+Mredif;1312;La Democracia
+Mredif;1313;San Miguel Acatán
+Mredif;1314;San Rafael la Independencia
+Mredif;1315;Todos Santos Cuchumatán
+Mredif;1316;San Juan Atitán
+Mredif;1317;Santa Eulalia
+Mredif;1318;San Mateo Ixtatán
+Mredif;1319;Colotenango
+Mredif;1320;San Sebastián Huehuetenango
+Mredif;1321;Tectitán
+Mredif;1322;Concepción Huista
+Mredif;1323;San Juan Ixcoy
+Mredif;1324;San Antonio Huista
+Mredif;1325;San Sebastián Coatán
+Mredif;1326;Barillas
+Mredif;1327;Aguacatán
+Mredif;1328;San Rafael Petzal
+Mredif;1329;San Gaspar Ixchil
+Mredif;1330;Santiago Chimaltenango
+Mredif;1331;Santa Ana Huista
+Mredif;1332;Unión Cantinil
+Mredif;1401;Santa Cruz del Quiché
+Mredif;1402;Chiché
+Mredif;1403;Chinique
+Mredif;1404;Zacualpa
+Mredif;1405;Chajul
+Mredif;1406;Chichicastenango
+Mredif;1407;Patzité
+Mredif;1408;San Antonio Ilotenango
+Mredif;1409;San Pedro Jocopilas
+Mredif;1410;Cunén
+Mredif;1411;San Juan Cotzal
+Mredif;1412;Joyabaj
+Mredif;1413;Nebaj
+Mredif;1414;San Andrés Sajcabajá
+Mredif;1415;Uspantán
+Mredif;1416;Sacapulas
+Mredif;1417;San Bartolomé Jocotenango
+Mredif;1418;Canillá
+Mredif;1419;Chicamán
+Mredif;1420;Ixcán
+Mredif;1421;Pachalum
+Mredif;1501;Salamá
+Mredif;1502;San Miguel Chicaj
+Mredif;1503;Rabinal
+Mredif;1504;Cubulco
+Mredif;1505;Granados
+Mredif;1506;El Chol
+Mredif;1507;San Jerónimo
+Mredif;1508;Purulhá
+Mredif;1601;Cobán
+Mredif;1602;Santa Cruz Verapaz
+Mredif;1603;San Cristóbal Verapaz
+Mredif;1604;Tactic
+Mredif;1605;Tamahú
+Mredif;1606;Tucurú
+Mredif;1607;Panzós
+Mredif;1608;Senahú
+Mredif;1609;San Pedro Carchá
+Mredif;1610;San Juan Chamelco
+Mredif;1611;Lanquín
+Mredif;1612;Cahabón
+Mredif;1613;Chisec
+Mredif;1614;Chahal
+Mredif;1615;Fray Bartolomé de las Casas
+Mredif;1616;Santa Catalina la Tinta
+Mredif;1617;Raxruhá
+Mredif;1701;Flores
+Mredif;1702;San José
+Mredif;1703;San Benito
+Mredif;1704;San Andrés
+Mredif;1705;La Libertad
+Mredif;1706;San Francisco
+Mredif;1707;Santa Ana
+Mredif;1708;Dolores
+Mredif;1709;San Luis
+Mredif;1710;Sayaxché
+Mredif;1711;Melchor de Mencos
+Mredif;1712;Poptún
+Mredif;1713;Las Cruces
+Mredif;1801;Puerto Barrios
+Mredif;1802;Livingston
+Mredif;1803;El Estor
+Mredif;1804;Morales
+Mredif;1805;Los Amates
+Mredif;1901;Zacapa
+Mredif;1902;Estanzuela
+Mredif;1903;Río Hondo
+Mredif;1904;Gualán
+Mredif;1905;Teculután
+Mredif;1906;Usumatlán
+Mredif;1907;Cabañas
+Mredif;1908;San Diego
+Mredif;1909;La Unión
+Mredif;1910;Huité
+Mredif;2001;Chiquimula
+Mredif;2002;San José La Arada
+Mredif;2003;San Juan Ermita
+Mredif;2004;Jocotán
+Mredif;2005;Camotán
+Mredif;2006;Olopa
+Mredif;2007;Esquipulas
+Mredif;2008;Concepción Las Minas
+Mredif;2009;Quetzaltepeque
+Mredif;2010;San Jacinto
+Mredif;2011;Ipala
+Mredif;2101;Jalapa
+Mredif;2102;San Pedro Pinula
+Mredif;2103;San Luis Jilotepeque
+Mredif;2104;San Manuel Chaparrón
+Mredif;2105;San Carlos Alzatate
+Mredif;2106;Monjas
+Mredif;2107;Mataquescuintla
+Mredif;2201;Jutiapa
+Mredif;2202;El Progreso
+Mredif;2203;Santa Catarina Mita
+Mredif;2204;Agua Blanca
+Mredif;2205;Asunción Mita
+Mredif;2206;Yupiltepeque
+Mredif;2207;Atescatempa
+Mredif;2208;Jerez
+Mredif;2209;El Adelanto
+Mredif;2210;Zapotitlán
+Mredif;2211;Comapa
+Mredif;2212;Jalpatagua
+Mredif;2213;Conguaco
+Mredif;2214;Moyuta
+Mredif;2215;Pasaco
+Mredif;2216;San José Acatempa
+Mredif;2217;Quesada
+Mredif;2300;Extranjero
+Mredif;9999;Ignorado
