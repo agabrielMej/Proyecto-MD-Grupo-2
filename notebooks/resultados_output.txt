@@ -1,0 +1,450 @@
+================================================================================
+Modelo A - incluye Otras
+Logistic Regression 1
+Accuracy: 0.4695035915854284
+Macro F1: 0.47651199975140485
+Weighted F1: 0.46635198718770415
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas', 'Otras']
+Matriz de confusión:
+[[ 7438  3377   905  1867  1487]
+ [ 6030  9253  1862  3336  3507]
+ [  556   666 11305   636  1354]
+ [ 2540  1263  1028  6389  2194]
+ [ 5086  3975  2488  5472  9538]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.34      0.49      0.41     15074
+        Cronicas       0.50      0.39      0.44     23988
+        Externas       0.64      0.78      0.70     14517
+     Infecciosas       0.36      0.48      0.41     13414
+           Otras       0.53      0.36      0.43     26559
+
+        accuracy                           0.47     93552
+       macro avg       0.47      0.50      0.48     93552
+    weighted avg       0.48      0.47      0.47     93552
+
+================================================================================
+Modelo A - incluye Otras
+Logistic Regression 2
+Accuracy: 0.46973875491705147
+Macro F1: 0.47669777203668906
+Weighted F1: 0.46663613756001315
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas', 'Otras']
+Matriz de confusión:
+[[ 7435  3359   900  1873  1507]
+ [ 6029  9253  1856  3328  3522]
+ [  561   657 11304   633  1362]
+ [ 2533  1263  1029  6380  2209]
+ [ 5035  3962  2491  5498  9573]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.34      0.49      0.41     15074
+        Cronicas       0.50      0.39      0.44     23988
+        Externas       0.64      0.78      0.70     14517
+     Infecciosas       0.36      0.48      0.41     13414
+           Otras       0.53      0.36      0.43     26559
+
+        accuracy                           0.47     93552
+       macro avg       0.47      0.50      0.48     93552
+    weighted avg       0.48      0.47      0.47     93552
+
+================================================================================
+Modelo A - incluye Otras
+Logistic Regression 3
+Accuracy: 0.46964255173593294
+Macro F1: 0.4766129750481303
+Weighted F1: 0.46650517680080017
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas', 'Otras']
+Matriz de confusión:
+[[ 7439  3355   903  1874  1503]
+ [ 6030  9251  1850  3327  3530]
+ [  556   660 11309   634  1358]
+ [ 2540  1255  1029  6376  2214]
+ [ 5042  3970  2496  5490  9561]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.34      0.49      0.41     15074
+        Cronicas       0.50      0.39      0.44     23988
+        Externas       0.64      0.78      0.70     14517
+     Infecciosas       0.36      0.48      0.41     13414
+           Otras       0.53      0.36      0.43     26559
+
+        accuracy                           0.47     93552
+       macro avg       0.47      0.50      0.48     93552
+    weighted avg       0.48      0.47      0.47     93552
+
+================================================================================
+Modelo A - incluye Otras
+Random Forest 1
+Accuracy: 0.454773815631948
+Macro F1: 0.45061457856696896
+Weighted F1: 0.4446673799608299
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas', 'Otras']
+Matriz de confusión:
+[[ 4370  5018  1372  3357   957]
+ [ 4046 11319  2754  4213  1656]
+ [  206   860 11918   512  1021]
+ [ 1610  1851  1230  7138  1585]
+ [ 3034  5558  2910  7257  7800]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.33      0.29      0.31     15074
+        Cronicas       0.46      0.47      0.47     23988
+        Externas       0.59      0.82      0.69     14517
+     Infecciosas       0.32      0.53      0.40     13414
+           Otras       0.60      0.29      0.39     26559
+
+        accuracy                           0.45     93552
+       macro avg       0.46      0.48      0.45     93552
+    weighted avg       0.48      0.45      0.44     93552
+
+================================================================================
+Modelo A - incluye Otras
+Random Forest 2
+Accuracy: 0.46974944415939796
+Macro F1: 0.46708622410104467
+Weighted F1: 0.4617472941336552
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas', 'Otras']
+Matriz de confusión:
+[[ 4636  5092  1201  3219   926]
+ [ 3887 12064  2278  4087  1672]
+ [  250   872 11827   516  1052]
+ [ 1593  1985  1071  7147  1618]
+ [ 3046  5779  2508  6954  8272]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.35      0.31      0.33     15074
+        Cronicas       0.47      0.50      0.48     23988
+        Externas       0.63      0.81      0.71     14517
+     Infecciosas       0.33      0.53      0.40     13414
+           Otras       0.61      0.31      0.41     26559
+
+        accuracy                           0.47     93552
+       macro avg       0.48      0.49      0.47     93552
+    weighted avg       0.49      0.47      0.46     93552
+
+================================================================================
+Modelo A - incluye Otras
+Random Forest 3
+Accuracy: 0.5151359671626475
+Macro F1: 0.5164104244068587
+Weighted F1: 0.5133569932204426
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas', 'Otras']
+Matriz de confusión:
+[[ 6309  4955   718  1493  1599]
+ [ 4935 12997  1441  1906  2709]
+ [  467  1036 11775   346   893]
+ [ 2058  2218   787  5914  2437]
+ [ 3847  5399  1996  4120 11197]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.36      0.42      0.39     15074
+        Cronicas       0.49      0.54      0.51     23988
+        Externas       0.70      0.81      0.75     14517
+     Infecciosas       0.43      0.44      0.43     13414
+           Otras       0.59      0.42      0.49     26559
+
+        accuracy                           0.52     93552
+       macro avg       0.51      0.53      0.52     93552
+    weighted avg       0.52      0.52      0.51     93552
+
+================================================================================
+Modelo A - incluye Otras
+KNN 1
+Accuracy: 0.4653561655549855
+Macro F1: 0.46874371794965936
+Weighted F1: 0.4684421725698212
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas', 'Otras']
+Matriz de confusión:
+[[ 5640  5454   507  1226  2247]
+ [ 5699 12011   941  1586  3751]
+ [  877  1817  9928   525  1370]
+ [ 2184  2946   548  4474  3262]
+ [ 3898  6340  1325  3514 11482]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.31      0.37      0.34     15074
+        Cronicas       0.42      0.50      0.46     23988
+        Externas       0.75      0.68      0.72     14517
+     Infecciosas       0.40      0.33      0.36     13414
+           Otras       0.52      0.43      0.47     26559
+
+        accuracy                           0.47     93552
+       macro avg       0.48      0.46      0.47     93552
+    weighted avg       0.48      0.47      0.47     93552
+
+================================================================================
+Modelo A - incluye Otras
+KNN 2
+Accuracy: 0.48674533949033694
+Macro F1: 0.48628991457659715
+Weighted F1: 0.4874386119441383
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas', 'Otras']
+Matriz de confusión:
+[[ 5200  5875   480  1109  2410]
+ [ 4637 13155   911  1339  3946]
+ [  661  1780 10148   399  1529]
+ [ 1943  2937   521  4610  3403]
+ [ 3251  6574  1241  3070 12423]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.33      0.34      0.34     15074
+        Cronicas       0.43      0.55      0.48     23988
+        Externas       0.76      0.70      0.73     14517
+     Infecciosas       0.44      0.34      0.39     13414
+           Otras       0.52      0.47      0.49     26559
+
+        accuracy                           0.49     93552
+       macro avg       0.50      0.48      0.49     93552
+    weighted avg       0.49      0.49      0.49     93552
+
+================================================================================
+Modelo A - incluye Otras
+KNN 3
+Accuracy: 0.4957136138190525
+Macro F1: 0.4928448946324995
+Weighted F1: 0.4946244415116634
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas', 'Otras']
+Matriz de confusión:
+[[ 4916  6164   477  1038  2479]
+ [ 4011 13765   876  1262  4074]
+ [  540  1801 10266   368  1542]
+ [ 1758  2930   524  4637  3565]
+ [ 2865  6761  1219  2923 12791]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.35      0.33      0.34     15074
+        Cronicas       0.44      0.57      0.50     23988
+        Externas       0.77      0.71      0.74     14517
+     Infecciosas       0.45      0.35      0.39     13414
+           Otras       0.52      0.48      0.50     26559
+
+        accuracy                           0.50     93552
+       macro avg       0.51      0.49      0.49     93552
+    weighted avg       0.50      0.50      0.49     93552
+
+================================================================================
+Modelo B - excluye Otras
+Logistic Regression 1
+Accuracy: 0.5676115415043362
+Macro F1: 0.5729317715652258
+Weighted F1: 0.565798948480635
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas']
+Matriz de confusión:
+[[ 8003  3764   966  2341]
+ [ 6720 10673  2029  4566]
+ [  651   896 11684  1286]
+ [ 2834  1559  1355  7666]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.44      0.53      0.48     15074
+        Cronicas       0.63      0.44      0.52     23988
+        Externas       0.73      0.80      0.76     14517
+     Infecciosas       0.48      0.57      0.52     13414
+
+        accuracy                           0.57     66993
+       macro avg       0.57      0.59      0.57     66993
+    weighted avg       0.58      0.57      0.57     66993
+
+================================================================================
+Modelo B - excluye Otras
+Logistic Regression 2
+Accuracy: 0.567775737763647
+Macro F1: 0.573123890095675
+Weighted F1: 0.5659925436688642
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas']
+Matriz de confusión:
+[[ 8002  3761   961  2350]
+ [ 6725 10683  2016  4564]
+ [  655   893 11679  1290]
+ [ 2805  1578  1358  7673]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.44      0.53      0.48     15074
+        Cronicas       0.63      0.45      0.52     23988
+        Externas       0.73      0.80      0.77     14517
+     Infecciosas       0.48      0.57      0.52     13414
+
+        accuracy                           0.57     66993
+       macro avg       0.57      0.59      0.57     66993
+    weighted avg       0.58      0.57      0.57     66993
+
+================================================================================
+Modelo B - excluye Otras
+Logistic Regression 3
+Accuracy: 0.567775737763647
+Macro F1: 0.5730548199667433
+Weighted F1: 0.566030386309773
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas']
+Matriz de confusión:
+[[ 7998  3756   967  2353]
+ [ 6722 10701  2012  4553]
+ [  650   899 11680  1288]
+ [ 2816  1578  1362  7658]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.44      0.53      0.48     15074
+        Cronicas       0.63      0.45      0.52     23988
+        Externas       0.73      0.80      0.76     14517
+     Infecciosas       0.48      0.57      0.52     13414
+
+        accuracy                           0.57     66993
+       macro avg       0.57      0.59      0.57     66993
+    weighted avg       0.58      0.57      0.57     66993
+
+================================================================================
+Modelo B - excluye Otras
+Random Forest 1
+Accuracy: 0.5504604958727031
+Macro F1: 0.5403593805294659
+Weighted F1: 0.5387582834937179
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas']
+Matriz de confusión:
+[[ 4560  5439  1472  3603]
+ [ 4387 11997  2897  4707]
+ [  328  1081 12385   723]
+ [ 1641  2087  1751  7935]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.42      0.30      0.35     15074
+        Cronicas       0.58      0.50      0.54     23988
+        Externas       0.67      0.85      0.75     14517
+     Infecciosas       0.47      0.59      0.52     13414
+
+        accuracy                           0.55     66993
+       macro avg       0.53      0.56      0.54     66993
+    weighted avg       0.54      0.55      0.54     66993
+
+================================================================================
+Modelo B - excluye Otras
+Random Forest 2
+Accuracy: 0.5715821055931216
+Macro F1: 0.5646005166262155
+Weighted F1: 0.5625550220800143
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas']
+Matriz de confusión:
+[[ 5138  5229  1363  3344]
+ [ 4471 12543  2614  4360]
+ [  309  1038 12354   816]
+ [ 1747  2104  1306  8257]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.44      0.34      0.38     15074
+        Cronicas       0.60      0.52      0.56     23988
+        Externas       0.70      0.85      0.77     14517
+     Infecciosas       0.49      0.62      0.55     13414
+
+        accuracy                           0.57     66993
+       macro avg       0.56      0.58      0.56     66993
+    weighted avg       0.56      0.57      0.56     66993
+
+================================================================================
+Modelo B - excluye Otras
+Random Forest 3
+Accuracy: 0.6126908781514486
+Macro F1: 0.6127805405784095
+Weighted F1: 0.6111709480647122
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas']
+Matriz de confusión:
+[[ 6867  5572   771  1864]
+ [ 5333 14589  1626  2440]
+ [  526  1254 12076   661]
+ [ 2313  2679   908  7514]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.46      0.46      0.46     15074
+        Cronicas       0.61      0.61      0.61     23988
+        Externas       0.79      0.83      0.81     14517
+     Infecciosas       0.60      0.56      0.58     13414
+
+        accuracy                           0.61     66993
+       macro avg       0.61      0.61      0.61     66993
+    weighted avg       0.61      0.61      0.61     66993
+
+================================================================================
+Modelo B - excluye Otras
+KNN 1
+Accuracy: 0.5592972400101504
+Macro F1: 0.5628276807867726
+Weighted F1: 0.562694546537414
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas']
+Matriz de confusión:
+[[ 6558  6577   570  1369]
+ [ 6641 14420  1128  1799]
+ [ 1051  2270 10433   763]
+ [ 2819  3723   814  6058]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.38      0.44      0.41     15074
+        Cronicas       0.53      0.60      0.57     23988
+        Externas       0.81      0.72      0.76     14517
+     Infecciosas       0.61      0.45      0.52     13414
+
+        accuracy                           0.56     66993
+       macro avg       0.58      0.55      0.56     66993
+    weighted avg       0.57      0.56      0.56     66993
+
+================================================================================
+Modelo B - excluye Otras
+KNN 2
+Accuracy: 0.5839266789067514
+Macro F1: 0.5821083049643425
+Weighted F1: 0.5835650137380889
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas']
+Matriz de confusión:
+[[ 6002  7016   547  1509]
+ [ 5188 15786  1088  1926]
+ [  765  2211 10760   781]
+ [ 2310  3792   741  6571]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.42      0.40      0.41     15074
+        Cronicas       0.55      0.66      0.60     23988
+        Externas       0.82      0.74      0.78     14517
+     Infecciosas       0.61      0.49      0.54     13414
+
+        accuracy                           0.58     66993
+       macro avg       0.60      0.57      0.58     66993
+    weighted avg       0.59      0.58      0.58     66993
+
+================================================================================
+Modelo B - excluye Otras
+KNN 3
+Accuracy: 0.5921215649396205
+Macro F1: 0.5870390206837245
+Weighted F1: 0.5894507522703427
+Clases: ['Cardiovasculares', 'Cronicas', 'Externas', 'Infecciosas']
+Matriz de confusión:
+[[ 5707  7344   544  1479]
+ [ 4554 16439  1106  1889]
+ [  656  2235 10845   781]
+ [ 2121  3845   771  6677]]
+Classification report:
+                  precision    recall  f1-score   support
+
+Cardiovasculares       0.44      0.38      0.41     15074
+        Cronicas       0.55      0.69      0.61     23988
+        Externas       0.82      0.75      0.78     14517
+     Infecciosas       0.62      0.50      0.55     13414
+
+        accuracy                           0.59     66993
+       macro avg       0.61      0.58      0.59     66993
+    weighted avg       0.60      0.59      0.59     66993
+
